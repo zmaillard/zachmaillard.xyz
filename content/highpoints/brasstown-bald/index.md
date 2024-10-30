@@ -4,5 +4,5 @@ draft = true
 title = 'Brasstown Bald'
 category = 'highpoint'
 state = 'Georgia'
-route = 'Jack's Knob Trail'
+route = 'Jacks Knob Trail'
 +++
