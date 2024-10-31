@@ -4,4 +4,5 @@ draft = true
 title = 'Humphreys Peak'
 category = 'highpoint'
 state = 'Arizona'
+climbed = 'September 8, 2023'
 +++

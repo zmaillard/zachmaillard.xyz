@@ -5,4 +5,5 @@ title = 'Borah Peak'
 category = 'highpoint'
 state = 'Idaho'
 route = 'Southwest (Chicken-Out) Ridge'
+climbed = 'July 22, 2018'
 +++

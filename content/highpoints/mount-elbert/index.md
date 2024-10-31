@@ -4,4 +4,5 @@ draft = true
 title = 'Mount Elbert'
 category = 'highpoint'
 state = 'Colorado'
+climbed = 'July 10, 2022'
 +++

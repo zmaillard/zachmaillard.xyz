@@ -5,4 +5,5 @@ title = 'Guadalupe Peak'
 category = 'highpoint'
 state = 'Texas'
 route = 'Guadalupe Peak Trail'
+climbed = 'April 15, 2013'
 +++

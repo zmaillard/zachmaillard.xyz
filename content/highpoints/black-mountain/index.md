@@ -4,4 +4,5 @@ draft = true
 title = 'Black Mountain'
 category = 'highpoint'
 state = 'Kentucky'
+climbed = 'March 31, 2024'
 +++

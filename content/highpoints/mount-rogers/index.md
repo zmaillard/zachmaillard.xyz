@@ -4,4 +4,5 @@ draft = true
 title = 'Mount Rogers'
 category = 'highpoint'
 state = 'Virginia'
+climbed = 'March 30, 2024'
 +++

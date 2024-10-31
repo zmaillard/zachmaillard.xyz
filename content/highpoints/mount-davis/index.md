@@ -4,4 +4,5 @@ draft = true
 title = 'Mount Davis'
 category = 'highpoint'
 state = 'Pennsylvania'
+climbed = 'March 29, 2024'
 +++

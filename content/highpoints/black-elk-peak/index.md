@@ -5,4 +5,5 @@ title = 'Black Elk Peak'
 category = 'highpoint'
 state = 'South Dakota'
 route = 'Sylvan Lake, Trail #9'
+climbed = 'April 30, 2022'
 +++

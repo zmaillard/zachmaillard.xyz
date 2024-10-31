@@ -4,4 +4,5 @@ draft = true
 title = 'Panorama Point'
 category = 'highpoint'
 state = 'Nebraska'
+climbed = 'July 11, 2022'
 +++

@@ -1,0 +1,3 @@
+{:tasks
+    { serve (shell "hugo serve --buildDrafts")}
+}
