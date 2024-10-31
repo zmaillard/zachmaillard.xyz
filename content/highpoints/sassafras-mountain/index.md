@@ -6,8 +6,16 @@ category = 'highpoint'
 state = 'South Carolina'
 climbed = 'June 23, 2019'
 elevation = 3554
-+++
 
-./content/highpoints/sassafras-mountain/images/IMG_0330.jpeg
-./content/highpoints/sassafras-mountain/images/IMG_0321.jpeg
-./content/highpoints/sassafras-mountain/images/IMG_0325.jpeg
+[[images]]
+name = 'IMG_0330.jpeg'
+caption = 'A'
+
+[[images]]
+name = 'IMG_0321.jpeg'
+caption = 'B'
+
+[[images]]
+name = 'IMG_0325.jpeg'
+caption = 'C'
++++

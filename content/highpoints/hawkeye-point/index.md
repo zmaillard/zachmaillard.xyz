@@ -6,8 +6,17 @@ category = 'highpoint'
 state = 'Iowa'
 climbed = 'May 1, 2022'
 elevation = 1670
-+++
 
-./content/highpoints/hawkeye-point/images/IMG_0964.jpeg
-./content/highpoints/hawkeye-point/images/IMG_0963.jpeg
-./content/highpoints/hawkeye-point/images/IMG_0958.jpeg
+
+[[images]]
+name = 'IMG_0964.jpeg'
+caption = 'A'
+
+[[images]]
+name = 'IMG_0963.jpeg'
+caption = 'B'
+
+[[images]]
+name = 'IMG_0958.jpeg'
+caption = 'C'
++++

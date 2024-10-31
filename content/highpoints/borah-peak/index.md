@@ -7,9 +7,17 @@ state = 'Idaho'
 route = 'Southwest (Chicken-Out) Ridge'
 climbed = 'July 22, 2018'
 elevation = 12662
-+++
 
-./content/highpoints/borah-peak/images/IMG_0845.jpeg
-./content/highpoints/borah-peak/images/IMG_0829.jpeg
-./content/highpoints/borah-peak/images/IMG_0838.jpeg
-./content/highpoints/borah-peak/images/IMG_0826.jpeg
+[[images]]
+name = 'IMG_0845.jpeg'
+caption = 'A'
+[[images]]
+name = 'IMG_0829.jpeg'
+caption = 'B'
+[[images]]
+name = 'IMG_0838.jpeg'
+caption = 'C'
+[[images]]
+name = 'IMG_0826.jpeg'
+caption = 'D'
++++

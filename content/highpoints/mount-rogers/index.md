@@ -6,9 +6,17 @@ category = 'highpoint'
 state = 'Virginia'
 climbed = 'March 30, 2024'
 elevation = 5729
-+++
 
-./content/highpoints/mount-rogers/images/IMG_2080.jpeg
-./content/highpoints/mount-rogers/images/IMG_2079.jpeg
-./content/highpoints/mount-rogers/images/IMG_2078.jpeg
-./content/highpoints/mount-rogers/images/IMG_2081.jpeg
+[[images]]
+name = 'IMG_2080.jpeg'
+caption = 'A'
+[[images]]
+name = 'IMG_2079.jpeg'
+caption = 'B'
+[[images]]
+name = 'IMG_2078.jpeg'
+caption = 'C'
+[[images]]
+name = 'IMG_2081.jpeg'
+caption = 'D'
++++

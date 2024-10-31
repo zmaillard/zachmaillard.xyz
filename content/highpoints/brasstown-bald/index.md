@@ -7,9 +7,18 @@ state = 'Georgia'
 route = 'Jacks Knob Trail'
 climbed = 'June 22, 2019'
 elevation = 4784
-+++
 
-./content/highpoints/brasstown-bald/images/IMG_0296.jpeg
-./content/highpoints/brasstown-bald/images/IMG_0290.jpeg
-./content/highpoints/brasstown-bald/images/IMG_0298.jpeg
-./content/highpoints/brasstown-bald/images/IMG_0295.jpeg
+
+[[images]]
+name = 'IMG_0296.jpeg'
+caption = 'A'
+[[images]]
+name = 'IMG_0290.jpeg'
+caption = 'B'
+[[images]]
+name = 'IMG_0298.jpeg'
+caption = 'C'
+[[images]]
+name = 'IMG_0295.jpeg'
+caption = 'D'
++++

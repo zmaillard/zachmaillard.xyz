@@ -7,9 +7,22 @@ state = 'South Dakota'
 route = 'Sylvan Lake, Trail #9'
 climbed = 'April 30, 2022'
 elevation = 7244
+
+[[images]]
+name = 'IMG_0930.jpeg'
+caption = 'A'
+
+[[images]]
+name = 'IMG_0938.jpeg'
+caption = 'B'
+
+[[images]]
+name = 'IMG_0939.jpeg'
+caption = 'C'
+
+[[images]]
+name = 'IMG_0942.jpeg'
+caption = 'D'
 +++
 
-./content/highpoints/black-elk-peak/images/IMG_0930.jpeg
-./content/highpoints/black-elk-peak/images/IMG_0938.jpeg
-./content/highpoints/black-elk-peak/images/IMG_0939.jpeg
-./content/highpoints/black-elk-peak/images/IMG_0942.jpeg
+Some stuff here

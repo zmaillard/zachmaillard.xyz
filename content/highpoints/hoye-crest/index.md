@@ -6,8 +6,16 @@ category = 'highpoint'
 state = 'Maryland'
 climbed = 'March 29, 2024'
 elevation = 3360
-+++
 
-./content/highpoints/hoye-crest/images/IMG_2053.jpeg
-./content/highpoints/hoye-crest/images/IMG_2055.jpeg
-./content/highpoints/hoye-crest/images/IMG_2059.jpeg
+[[images]]
+name = 'IMG_2053.jpeg'
+caption = 'A'
+
+[[images]]
+name = 'IMG_2055.jpeg'
+caption = 'B'
+
+[[images]]
+name = 'IMG_2059.jpeg'
+caption = 'C'
++++

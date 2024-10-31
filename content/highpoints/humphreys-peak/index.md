@@ -6,9 +6,20 @@ category = 'highpoint'
 state = 'Arizona'
 climbed = 'September 8, 2023'
 elevation = 12633
-+++
 
-./content/highpoints/humphreys-peak/images/IMG_1812.jpeg
-./content/highpoints/humphreys-peak/images/IMG_1803.jpeg
-./content/highpoints/humphreys-peak/images/IMG_1815.jpeg
-./content/highpoints/humphreys-peak/images/IMG_1807.jpeg
+[[images]]
+name = 'IMG_1812.jpeg'
+caption = 'A'
+
+[[images]]
+name = 'IMG_1803.jpeg'
+caption = 'B'
+
+[[images]]
+name = 'IMG_1815.jpeg'
+caption = 'C'
+
+[[images]]
+name = 'IMG_1807.jpeg'
+caption = 'D'
++++

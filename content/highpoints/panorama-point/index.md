@@ -6,9 +6,17 @@ category = 'highpoint'
 state = 'Nebraska'
 climbed = 'July 11, 2022'
 elevation = 5429
-+++
 
-./content/highpoints/panorama-point/images/IMG_1171.jpeg
-./content/highpoints/panorama-point/images/IMG_1163.jpeg
-./content/highpoints/panorama-point/images/IMG_1169.jpeg
-./content/highpoints/panorama-point/images/IMG_1172.jpeg
+[[images]]
+name = 'IMG_1171.jpeg'
+caption = 'A'
+[[images]]
+name = 'IMG_1163.jpeg'
+caption = 'B'
+[[images]]
+name = 'IMG_1169.jpeg'
+caption = 'C'
+[[images]]
+name = 'IMG_1172.jpeg'
+caption = 'D'
++++

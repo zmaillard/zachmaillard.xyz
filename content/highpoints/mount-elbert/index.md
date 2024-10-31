@@ -6,9 +6,17 @@ category = 'highpoint'
 state = 'Colorado'
 climbed = 'July 10, 2022'
 elevation = 14440
-+++
 
-./content/highpoints/mount-elbert/images/IMG_1146.jpeg
-./content/highpoints/mount-elbert/images/IMG_1136.jpeg
-./content/highpoints/mount-elbert/images/IMG_1139.jpeg
-./content/highpoints/mount-elbert/images/IMG_1125.jpeg
+[[images]]
+name = 'IMG_1146.jpeg'
+caption = 'A'
+[[images]]
+name = 'IMG_1136.jpeg'
+caption = 'B'
+[[images]]
+name = 'IMG_1139.jpeg'
+caption = 'C'
+[[images]]
+name = 'IMG_1125.jpeg'
+caption = 'D'
++++

@@ -6,10 +6,24 @@ category = 'highpoint'
 state = 'West Virginia'
 climbed = 'March 29, 2024'
 elevation = 4863
-+++
 
-./content/highpoints/spruce-knob/images/IMG_2068.jpeg
-./content/highpoints/spruce-knob/images/IMG_2072.jpeg
-./content/highpoints/spruce-knob/images/IMG_2075.jpeg
-./content/highpoints/spruce-knob/images/IMG_2074.jpeg
-./content/highpoints/spruce-knob/images/IMG_2077.jpeg
+[[images]]
+name = 'IMG_2068.jpeg'
+caption = 'A'
+
+[[images]]
+name = 'IMG_2072.jpeg'
+caption = 'B'
+
+[[images]]
+name = 'IMG_2075.jpeg'
+caption = 'C'
+
+[[images]]
+name = 'IMG_2074.jpeg'
+caption = 'D'
+
+[[images]]
+name = 'IMG_2077.jpeg'
+caption = 'D'
++++
