@@ -1,5 +1,5 @@
 +++
-date = '2024-10-29T20:09:01-06:00'
+date = '2024-03-29T20:09:01-06:00'
 draft = true
 title = 'Spruce Knob'
 category = 'highpoint'

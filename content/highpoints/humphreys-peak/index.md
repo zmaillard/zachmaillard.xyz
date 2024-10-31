@@ -1,5 +1,5 @@
 +++
-date = '2024-10-29T20:08:44-06:00'
+date = '2023-09-08T20:08:44-06:00'
 draft = true
 title = 'Humphreys Peak'
 category = 'highpoint'

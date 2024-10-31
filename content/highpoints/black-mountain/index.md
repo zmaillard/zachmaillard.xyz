@@ -1,10 +1,9 @@
 +++
-date = '2024-10-29T20:09:10-06:00'
+date = '2024-03-31T20:09:10-06:00'
 draft = true
 title = 'Black Mountain'
 category = 'highpoint'
 state = 'Kentucky'
-climbed = 'March 31, 2024'
 elevation = 4145
 
 [[images]]

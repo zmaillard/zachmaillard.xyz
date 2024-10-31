@@ -5,16 +5,17 @@
     .Params.Elevation 0.3048 )}} Meters)
 </h2>
 
+<div class="image-grid">
 {{ range .Params.images }}
 {{ $image := $.Page.Resources.Get .name }}
-<span>{{.name}}</span>
-{{ $foo := $image.Resize "600x" }}
-{{ with $foo }}
-<div class="image-grid">
-<img src="{{ .RelPermalink }}" class="img-responsive">
-</div>
- {{ end }}
+{{ with $image }}
+    {{ $foo := $image.Resize "600x" }}
+    {{ with $foo }}
+    <img src="{{ .RelPermalink }}" class="img-responsive gallery-image">
+    {{ end }}
 {{ end }}
+{{end}}
+</div>
 {{ .PublishDate.Format "Jan. 2, 2006" }} {{ with .Params.linkedin }} //
 <a href="{{ . }}">Linkedin</a> {{ end }} {{ with .Params.twitter }} //
 <a href="{{ . }}">Twitter</a>

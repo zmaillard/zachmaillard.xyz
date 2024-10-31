@@ -1,5 +1,5 @@
 +++
-date = '2024-10-29T20:08:01-06:00'
+date = '2019-06-23T20:08:01-06:00'
 draft = true
 title = 'Sassafras Mountain'
 category = 'highpoint'
