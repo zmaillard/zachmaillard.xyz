@@ -20,3 +20,4 @@ caption = 'C'
 name = 'IMG_2081.jpeg'
 caption = 'D'
 +++
+{{< figure src="IMG_2081.jpeg" title="An elephant at sunset" >}}
