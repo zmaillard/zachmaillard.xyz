@@ -1,7 +1,7 @@
-+++
-date = '2024-10-29T19:29:01-06:00'
-title = 'About'
-+++
+---
+date: "2024-10-29T19:29:01-06:00"
+title: About
+---
 
 My name is Zach Maillard and I work as a lead software engineer in Boise, Idaho.  I like maps, driving back roads, programming and hiking...particulary up mountains.  Public land owner.
 

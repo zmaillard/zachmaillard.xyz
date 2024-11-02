@@ -1,26 +1,37 @@
-+++
-date = '2018-07-22T20:06:49-06:00'
-draft = true
-title = 'Borah Peak'
-category = 'highpoint'
-state = 'Idaho'
-route = 'Southwest (Chicken-Out) Ridge'
-climbed = 'July 22, 2018'
-elevation = 12662
+---
+category: highpoint
+climbed: July 22, 2018
+date: "2018-07-22T20:06:49-06:00"
+draft: true
+elevation: 12662
+images:
+- name: highpoints/borah-peak/IMG_0821.jpeg
+- name: highpoints/borah-peak/IMG_0822.jpeg
+- name: highpoints/borah-peak/IMG_0826.jpeg
+- name: highpoints/borah-peak/IMG_0827.jpeg
+- name: highpoints/borah-peak/IMG_0828.jpeg
+- name: highpoints/borah-peak/IMG_0829.jpeg
+- name: highpoints/borah-peak/IMG_0830.jpeg
+- name: highpoints/borah-peak/IMG_0831.jpeg
+- name: highpoints/borah-peak/IMG_0832.jpeg
+- name: highpoints/borah-peak/IMG_0834.jpeg
+- name: highpoints/borah-peak/IMG_0835.jpeg
+- name: highpoints/borah-peak/IMG_0836.jpeg
+- name: highpoints/borah-peak/IMG_0837.jpeg
+- name: highpoints/borah-peak/IMG_0838.jpeg
+- name: highpoints/borah-peak/IMG_0839.jpeg
+- name: highpoints/borah-peak/IMG_0840.jpeg
+- name: highpoints/borah-peak/IMG_0842.jpeg
+- name: highpoints/borah-peak/IMG_0843.jpeg
+- name: highpoints/borah-peak/IMG_0844.jpeg
+- name: highpoints/borah-peak/IMG_0845.jpeg
+- name: highpoints/borah-peak/IMG_0846.jpeg
+- name: highpoints/borah-peak/IMG_0847.jpeg
 
-[[images]]
-name = 'IMG_0845.jpeg'
-caption = 'A'
-[[images]]
-name = 'IMG_0829.jpeg'
-caption = 'B'
-[[images]]
-name = 'IMG_0838.jpeg'
-caption = 'C'
-[[images]]
-name = 'IMG_0826.jpeg'
-caption = 'D'
-+++
+route: Southwest (Chicken-Out) Ridge
+state: Idaho
+title: Borah Peak
+---
 Borah Peak is probably the hardest of the high points that do not require any special gear.  The standard Chicken Out Ridge route, is so named because of a rocky section that is somewhat exposed and requires scrambling. The exposure on the ridge can be intimidating, and hence is where pepole chicken out and turn back.  From the parking lot to the summit is 3.5 miles, a very steep 3.5 miles!  Those 3.5 miles gain over 5000 feet in elevation.
 
 The crux of the trail is at the base of Chicken Out Ridge where the trail skirts along a narrow ridge line for around 20 feet or so.  When I hiked the trail on a mid July day, there was still snow on this stretch that was stamped down with boot tracks.  A slip here would spell disaster for sure.

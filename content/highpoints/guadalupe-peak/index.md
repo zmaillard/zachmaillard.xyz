@@ -1,25 +1,21 @@
-+++
-date = '2013-04-15T20:05:45-06:00'
-draft = true
-title = 'Guadalupe Peak'
-category = 'highpoint'
-state = 'Texas'
-route = 'Guadalupe Peak Trail'
-climbed = 'April 15, 2013'
-elevation = 8751
+---
+category: highpoint
+climbed: April 15, 2013
+date: "2013-04-15T20:05:45-06:00"
+draft: true
+elevation: 8751
+images:
+- name: highpoints/guadalupe-peak/IMAG0940.jpeg
+- name: highpoints/guadalupe-peak/IMAG0941.jpeg
+- name: highpoints/guadalupe-peak/IMAG0942.jpeg
+- name: highpoints/guadalupe-peak/IMAG0943.jpeg
+- name: highpoints/guadalupe-peak/IMAG0945.jpeg
+- name: highpoints/guadalupe-peak/IMAG0946.jpeg
+route: Guadalupe Peak Trail
+state: Texas
+title: Guadalupe Peak
+---
 
-[[images]]
-name = 'IMAG0940.jpeg'
-caption = 'A'
-
-[[images]]
-name = 'IMAG0941.jpeg'
-caption = 'B'
-
-[[images]]
-name = 'IMAG0945.jpeg'
-caption = 'C'
-+++
 
 Guadaulpe Peak is located in Guadalupe Mountains National Park in far western Texas.  Guadalupe Peak trail is the main route to the summit - starting at the Pine Springs Trailhead.  The trail is 4.2 miles from the trailhead to the summit - bringing the total out and back distance to 8.4 miles.  There is not much in the way of shade on this hike.  The park is located in the Chihuahuan Desert - so for the most part the plants are Yuccas and shrubs.  As you climb higher onto the mountain there are some small patches of forested areas.  Because the trail is so exposed, I would not recommend hiking this one in the middle of a summer day.
 
