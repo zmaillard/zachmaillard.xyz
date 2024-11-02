@@ -16,9 +16,16 @@ images:
 - name: highpoints/sassafras-mountain/IMG_0329.jpeg
 - name: highpoints/sassafras-mountain/IMG_0330.jpeg
 - name: highpoints/sassafras-mountain/IMG_0331.jpeg
-route: Foothills Trail
 state: South Carolina
 title: Sassafras Mountain
+route:
+  name: Sassafras Mountain via Foothills Trail
+  distance: 8.4 
+  elevationGain: 2185
+  allTrails: https://www.alltrails.com/trail/us/south-carolina/sassafrass-mountain-via-nc-178
+  otherAgency: 
+    name: Foothills Trail Conservancy
+    link: https://foothillstrail.org
 ---
 Sassafras Mountain is in the Blue Ridge Mountains in northern South Carolina, on the border with North Carolina.  Except for a short hike from the parking lot, the summit is accessible by car.  At the top of the mountain is a large viewing platform.  The route I chose to hike this mountain was the Foothills Trail, starting just north of the community of Rocky Bottom on US-178.  The trail starts in a canyon along the Eastatoe Creek.
 

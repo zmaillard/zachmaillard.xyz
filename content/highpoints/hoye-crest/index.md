@@ -18,7 +18,11 @@ images:
 - name: highpoints/hoye-crest/IMG_2062.jpeg
 - name: highpoints/hoye-crest/IMG_2063.jpeg
 - name: highpoints/hoye-crest/IMG_2064.jpeg
-
 state: Maryland
 title: Hoye Crest
+route:
+  name: Backbone Mountain Trail
+  distance: 2.3
+  elevationGain: 688
+  allTrails: https://www.alltrails.com/trail/us/west-virginia/hoye-crest-backbone-mountain
 ---

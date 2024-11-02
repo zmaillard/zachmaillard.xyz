@@ -17,4 +17,10 @@ images:
 - name: highpoints/spruce-knob/IMG_2077.jpeg
 state: West Virginia
 title: Spruce Knob
+route:
+  name: Spruce Knob via Huckleberry Trail
+  distance: 10.8
+  elevationGain: 1295
+  allTrails: https://www.alltrails.com/trail/us/west-virginia/spruce-knob-via-huckleberry-trail
+  forestService: https://www.fs.usda.gov/recarea/mnf/recreation/recarea/?recid=7038
 ---

@@ -17,5 +17,9 @@ images:
 - name: highpoints/black-mountain/IMG_2100.jpeg
 state: Kentucky
 title: Black Mountain
+route:
+  distance: 3.4
+  elevationGain: 528
+  allTrails: https://www.alltrails.com/trail/us/kentucky/black-mountain-kentucky-highpoint
 ---
 

@@ -15,9 +15,14 @@ images:
 - name: highpoints/brasstown-bald/IMG_0295.jpeg
 - name: highpoints/brasstown-bald/IMG_0296.jpeg
 - name: highpoints/brasstown-bald/IMG_0298.jpeg
-route: Jacks Knob Trail
 state: Georgia
 title: Brasstown Bald
+route:
+  name: "Jacks Knob Trail #45 and Brasstown Bald Trail #23"
+  distance: 5.9
+  elevationGain: 2221
+  allTrails: https://www.alltrails.com/trail/us/georgia/brasstown-bald-via-jack-s-gap
+  forestService: https://www.fs.usda.gov/recarea/conf/recreation/recarea/?recid=10542
 ---
 The high point of Georgia is in the Blue Ridge Mountains in the northeastern part of the state.  The easiest way to get to the top is by car.  At the top of the mountain is a big viewing tower.  The route I took was the Jack's Knob Trail which begins at Jack's Gap at the intersection of GA-180 and GA-180 Spur.  There is a small parking area at the junction.  The trail is 6 miles round trip to the summit with 1780 feet of elevation gain.
 

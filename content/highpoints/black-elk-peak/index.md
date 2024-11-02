@@ -21,7 +21,16 @@ images:
 - name: highpoints/black-elk-peak/IMG_0942.jpeg
 - name: highpoints/black-elk-peak/IMG_0943.jpeg
 - name: highpoints/black-elk-peak/IMG_0944.jpeg
-route: 'Sylvan Lake, Trail #9'
 state: South Dakota
 title: Black Elk Peak
+route:
+  name: "Harney Peak Trail #9"
+  distance: 6.4
+  elevationGain: 1499
+  allTrails: https://www.alltrails.com/trail/us/south-dakota/black-elk-peak-trail
+  forestService: https://www.fs.usda.gov/detail/blackhills/recreation/hiking/?cid=stelprdb5190237
+  otherAgency: 
+    name: Custer State Park
+    link: https://gfp.sd.gov/parks/detail/custer-state-park/
+  
 ---

@@ -21,6 +21,12 @@ images:
 - name: highpoints/humphreys-peak/IMG_1816.jpeg
 state: Arizona
 title: Humphreys Peak
+route:
+  name: Humphreys Trail No. 151
+  distance: 9.0
+  elevationGain: 3356
+  allTrails: https://www.alltrails.com/trail/us/arizona/humphreys-peak
+  forestService: https://www.fs.usda.gov/recarea/coconino/recarea/?recid=55108
 ---
 Humphreys Peak is located in the San Francisco Peaks between Flagstaff and the Grand Canyon.  The San Francisco Peaks are a prominent feature, and is a landmark especially from the deserts north and to the east.  The main trail starts at the Arizona Snow Bowl Ski Area.  The trail starts out in the forest, to the north side of the ski area with a series of switchbacks.  For the first part of the hike, the southern most parts of the switchback bump up against to the ski runs.  The climb is steady, and the forest provides good shade.
 

@@ -12,4 +12,13 @@ images:
 - name: highpoints/mount-rogers/IMG_2082.jpeg
 state: Virginia
 title: Mount Rogers
+
+route:
+  name: Rhododendron Trail to Appalachian Trail
+  distance: 10.6
+  elevationGain: 1778
+  allTrails: https://www.alltrails.com/trail/us/virginia/mount-rogers-spur-via-appalachian-trail
+  otherAgency: 
+    name: Grayson Highlands State Park
+    link: https://www.dcr.virginia.gov/state-parks/grayson-highlands
 ---

@@ -22,9 +22,16 @@ images:
 - name: highpoints/black-mesa/IMG_20140329_174307.jpeg
 - name: highpoints/black-mesa/IMG_20140329_182245.jpeg
 - name: highpoints/black-mesa/IMG_20140329_182247.jpeg
-route: North Flank Route
 state: Oklahoma
 title: Black Mesa
+route:
+  name: Black Mesa Trail
+  distance: 8.8
+  elevationGain: 748
+  allTrails: https://www.alltrails.com/trail/us/oklahoma/black-mesa
+  otherAgency: 
+    name: Black Mesa State Park and Nature Preserve
+    link: https://www.travelok.com/state-parks/black-mesa-state-park-nature-preserve/maps-and-resources
 ---
 Black Mesa is located at the far western end of Oklahoma, just a short distance from the Colorado and New Mexico borders.  The trail is 4.2 miles from the parking lot to the top of the mesa.  Landscape wise, this is high plains, with mostly short grasses, Yucca, and some Pinyon Pines along the side of the mesa.
 

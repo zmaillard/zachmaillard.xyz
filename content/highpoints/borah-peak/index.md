@@ -27,10 +27,14 @@ images:
 - name: highpoints/borah-peak/IMG_0845.jpeg
 - name: highpoints/borah-peak/IMG_0846.jpeg
 - name: highpoints/borah-peak/IMG_0847.jpeg
-
-route: Southwest (Chicken-Out) Ridge
 state: Idaho
 title: Borah Peak
+route:
+  name: "Borah Peak Trail #4044"
+  distance: 8.2
+  elevationGain: 5301
+  allTrails: https://www.alltrails.com/explore/trail/us/idaho/mount-borah-trail--2 
+  forestService: https://www.fs.usda.gov/recarea/scnf/recarea/?recid=76662
 ---
 Borah Peak is probably the hardest of the high points that do not require any special gear.  The standard Chicken Out Ridge route, is so named because of a rocky section that is somewhat exposed and requires scrambling. The exposure on the ridge can be intimidating, and hence is where pepole chicken out and turn back.  From the parking lot to the summit is 3.5 miles, a very steep 3.5 miles!  Those 3.5 miles gain over 5000 feet in elevation.
 

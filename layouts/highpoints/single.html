@@ -5,20 +5,50 @@
     .Params.Elevation 0.3048 )}} Meters)
 </h2>
 
+{{ $links := slice }}
+
+{{ with .Params.route }}
+    {{ with .name }}
+        <div>Route: {{.}}</div>
+    {{ end}}
+    {{ with .distance }}
+        <div>Distance: {{.}} miles out and back</div>
+    {{ end}}
+    {{ with .elevationGain }}
+        <div>Elevation Gain: {{.}} feet ({{ math.Round (math.Mul
+    . 0.3048 )}} Meters)
+</div>
+    {{ end}}
+
+{{ with .forestService }}
+    {{ $links = append (dict "name" "Forest Service" "link" .)  $links}}
+{{ end }}
+
+{{ with .otherAgency }}
+    {{ $links = append (dict "name" .name  "link" .link)  $links}}
+{{ end }}
+
+{{ with .allTrails }}
+    {{ $links = append (dict "name" "All Trails" "link" .)  $links}}
+{{ end }}
+{{ end }}
+
+{{ with $links}}
+<div>Links:
+{{range $i, $val := $links}}
+  {{ if gt $i 0 }} | {{ end }}
+  <a href="{{$val.link}}">{{$val.name}}</a>
+{{ end }}
+</div>
+{{ end }}
+{{ .Content }} 
 <div class="image-grid">
 {{ range .Params.images }}
-{{ $image := $.Page.Resources.Get .name }}
-{{ with $image }}
-    {{ $foo := $image.Resize "600x" }}
-    {{ with $foo }}
-    <img src="{{ .RelPermalink }}" class="img-responsive gallery-image">
-    {{ end }}
+    <a style="border:none;" href="https://images.zachmaillard.xyz/{{.name}}">
+    <img src="https://images.zachmaillard.xyz/cdn-cgi/image/width=400,quality=100/{{ .name }}" class="img-responsive gallery-image">
+    </a>
 {{ end }}
-{{end}}
 </div>
-{{ .PublishDate.Format "Jan. 2, 2006" }} {{ with .Params.linkedin }} //
-<a href="{{ . }}">Linkedin</a> {{ end }} {{ with .Params.twitter }} //
-<a href="{{ . }}">Twitter</a>
-{{ end }}
+{{ .PublishDate.Format "Jan. 2, 2006" }} 
 <br /><br />
-{{ .Content }} {{ $image := .Resources.Get "sunset.jpg" }} {{ end }}
+{{ end }}

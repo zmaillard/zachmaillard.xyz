@@ -32,6 +32,12 @@ images:
 - name: highpoints/mount-elbert/IMG_1150.jpeg
 state: Colorado
 title: Mount Elbert
+route:
+  name: North Mount Elbert Trail #1484
+  elevationGain: 4458
+  distance: 9.8
+  allTrails: https://www.alltrails.com/trail/us/colorado/north-mount-elbert-trail--3
+  forestService: https://www.fs.usda.gov/recarea/psicc/recreation/recarea/?recid=81978
 ---
 Mount Elbert is the highest peak in Colorado, and in the Rocky Mountains, and is the second highest peak in the lower 48.  The Mount Elbert hike is non-technical, but the high elevation is definetly a factor for this hike.  The starting point is at the Elbert Campground at almost 10,000 feet.  An early start is recommended on this trail during the summer months, becuase of the risk of thunderstorms.  A lot of the trail is a above treeline, so if a storm does come up, it is difficult to find shelter.
 
