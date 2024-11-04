@@ -5,13 +5,17 @@ draft: true
 elevation: 3213
 images:
 - name: highpoints/mount-davis/IMG_2044.jpeg
+  caption: View from the Lookout Tower 
 - name: highpoints/mount-davis/IMG_2045.jpeg
+  caption: View from the Lookout Tower 
 - name: highpoints/mount-davis/IMG_2046.jpeg
+  caption: View from the Lookout Tower 
 - name: highpoints/mount-davis/IMG_2047.jpeg
+  caption: Viewing Platform
 - name: highpoints/mount-davis/IMG_2048.jpeg
-- name: highpoints/mount-davis/IMG_2049.jpeg
-- name: highpoints/mount-davis/IMG_2050.jpeg
-- name: highpoints/mount-davis/IMG_2051.jpeg
+  caption: High Point Information Display
+#- name: highpoints/mount-davis/IMG_2051.jpeg
+#  caption: Green Plants
 state: Pennsylvania
 title: Mount Davis
 route:
@@ -23,5 +27,4 @@ route:
 
 
 ---
-Mount Davis is located on a ridge that generally trends north/south across southern Pennsylvania and Maryland.  Below the ridge is rolling hills and agricultural land.  The summit is accessible by car.  Becuase the ridge is surrounded by private property, the best trail access was from a parking area on the crest of the ridge north of the high point itself at a county park.  The trail is a gentle walk through a forest, which comes out to the highpoint itself marked by a large metal viewing platform, with a steep staircase to climb to the top.  The forest is thick enough around the summit, that the only way to see above the trees is to climb the viewing platform.  The views from the top are to the valleys on either side of the ridge.
-
+I made the trip to Mount Davis early in the morning on a sunny spring day.  The forest was still without leaves, save for an evergreen here and there.  The hike was a gentle trail through the forest that followed the ridge line south from the parking area to the viewing platform.  This would have been a fun bike ride along the country roads, up onto the ridge to Mount Davis.  The views were beautiful from the top.  I enjoyed climbing up the metal viewing platform.  This was my first out of three highpoints for the day.

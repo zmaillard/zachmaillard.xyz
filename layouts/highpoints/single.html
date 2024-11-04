@@ -1,9 +1,15 @@
 {{ define "main" }}
+
+{{ $style := resources.Get "styles/main.css"  }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
+
 <h1>{{ .Title }}, {{ .Params.State }}</h1>
 <h2>
     Elevation {{ .Params.Elevation }} Feet ({{ math.Round (math.Mul
     .Params.Elevation 0.3048 )}} Meters)
 </h2>
+
+<div>Hike Date: {{ .PublishDate.Format "Jan. 2, 2006" }} </div>
 
 {{ $links := slice }}
 
@@ -41,14 +47,21 @@
 {{ end }}
 </div>
 {{ end }}
-{{ .Content }} 
+<h3>Notes</h3>
+{{ .Content }}
 <div class="image-grid">
 {{ range .Params.images }}
-    <a style="border:none;" href="https://images.zachmaillard.xyz/{{.name}}">
+    <figure class="gallery">
+    <a class="gallery" href="https://images.zachmaillard.xyz/{{.name}}">
     <img src="https://images.zachmaillard.xyz/cdn-cgi/image/width=400,quality=100/{{ .name }}" class="img-responsive gallery-image">
     </a>
+    {{ with .caption }}
+    <figcaption>
+       <h4>{{ . }}</h4> 
+    </figcaption>
+    {{ end }}
+    </figure>
 {{ end }}
 </div>
-{{ .PublishDate.Format "Jan. 2, 2006" }} 
 <br /><br />
 {{ end }}
