@@ -6,19 +6,33 @@ draft: true
 elevation: 12633
 images:
 - name: highpoints/humphreys-peak/IMG_1803.jpeg
-- name: highpoints/humphreys-peak/IMG_1804.jpeg
-- name: highpoints/humphreys-peak/IMG_1805.jpeg
+  caption: Mount Humphreys From Saddle
+#- name: highpoints/humphreys-peak/IMG_1804.jpeg
+#  caption: B
+#- name: highpoints/humphreys-peak/IMG_1805.jpeg
+#  caption: View From Saddle Towards Arizona Snowbowl
 - name: highpoints/humphreys-peak/IMG_1806.jpeg
+  caption: View From Saddle Towards Arizona Snowbowl
 - name: highpoints/humphreys-peak/IMG_1807.jpeg
-- name: highpoints/humphreys-peak/IMG_1808.jpeg
-- name: highpoints/humphreys-peak/IMG_1809.jpeg
+  caption: Solitary Tree
+#- name: highpoints/humphreys-peak/IMG_1808.jpeg
+#  caption: F
+#- name: highpoints/humphreys-peak/IMG_1809.jpeg
+#  caption: G
 - name: highpoints/humphreys-peak/IMG_1810.jpeg
+  caption: Final Push To The Summit
 - name: highpoints/humphreys-peak/IMG_1811.jpeg
+  caption: Summit View Towards Flagstaff
 - name: highpoints/humphreys-peak/IMG_1812.jpeg
+  caption: Summit Marker
 - name: highpoints/humphreys-peak/IMG_1813.jpeg
+  caption: Summit Register
 - name: highpoints/humphreys-peak/IMG_1814.jpeg
-- name: highpoints/humphreys-peak/IMG_1815.jpeg
-- name: highpoints/humphreys-peak/IMG_1816.jpeg
+  caption: View From The Top Towards The Grand Canyon
+#- name: highpoints/humphreys-peak/IMG_1815.jpeg
+#  caption: M
+#- name: highpoints/humphreys-peak/IMG_1816.jpeg
+#  caption: "N"
 state: Arizona
 title: Humphreys Peak
 route:
@@ -28,6 +42,4 @@ route:
   allTrails: https://www.alltrails.com/trail/us/arizona/humphreys-peak
   forestService: https://www.fs.usda.gov/recarea/coconino/recarea/?recid=55108
 ---
-Humphreys Peak is located in the San Francisco Peaks between Flagstaff and the Grand Canyon.  The San Francisco Peaks are a prominent feature, and is a landmark especially from the deserts north and to the east.  The main trail starts at the Arizona Snow Bowl Ski Area.  The trail starts out in the forest, to the north side of the ski area with a series of switchbacks.  For the first part of the hike, the southern most parts of the switchback bump up against to the ski runs.  The climb is steady, and the forest provides good shade.
-
-Just above treeline the trail reaches the saddle between Humphreys Peak and Mount Agassiz.  At this point, the trail becomes fairly rocky and follows the ridge line to the north.  I think this is the hardest part of the trail, because it is windy and slow going through the rocks.  From the top of the summit, the views are stunning, and to the north the south rim of the Grand Canyon is visible.
+I hiked the Humphreys Peak trail in early September.  I camped at a dispersed camping area about 15 minutes west of the trail head, and was on the trail before sunrise.  The trail is pretty steep, but the trees provide a lot of shade below the saddle.  This was less important in the dark, but was nice on the way down.  At the saddle between Humphreys Peak and Mount Agassiz, you get a clear view of the summit and the route up to the summit.  There was a fair amount of wind along the ridge line.  The trail between the saddle and the summit is probably the hardest part of the trail, because you are picking your way through lots of rocks.  The view from the summit is amazing - clear views up towards the Grand Canyon, and south towards Sedona.

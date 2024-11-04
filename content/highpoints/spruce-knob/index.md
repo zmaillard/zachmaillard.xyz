@@ -6,15 +6,25 @@ draft: true
 elevation: 4863
 images:
 - name: highpoints/spruce-knob/IMG_2068.jpeg
-- name: highpoints/spruce-knob/IMG_2069.jpeg
-- name: highpoints/spruce-knob/IMG_2070.jpeg
-- name: highpoints/spruce-knob/IMG_2071.jpeg
-- name: highpoints/spruce-knob/IMG_2072.jpeg
+  caption: View From Top Of Viewing Platform
+#- name: highpoints/spruce-knob/IMG_2069.jpeg
+#  caption: View From Top Of Viewing Platform
+#- name: highpoints/spruce-knob/IMG_2070.jpeg
+#  caption: View From Top Of Viewing Platform
+#- name: highpoints/spruce-knob/IMG_2071.jpeg
+#  caption: D
+#- name: highpoints/spruce-knob/IMG_2072.jpeg
+#  caption: E
 - name: highpoints/spruce-knob/IMG_2073.jpeg
+  caption: Viewing Platform
 - name: highpoints/spruce-knob/IMG_2074.jpeg
+  caption: Highest Point In West Virginia
 - name: highpoints/spruce-knob/IMG_2075.jpeg
-- name: highpoints/spruce-knob/IMG_2076.jpeg
+  caption: View From Huckleberry Trail
+#- name: highpoints/spruce-knob/IMG_2076.jpeg
+#  caption: I
 - name: highpoints/spruce-knob/IMG_2077.jpeg
+  caption: Forest Road Back To Trail Head
 state: West Virginia
 title: Spruce Knob
 route:
@@ -24,3 +34,4 @@ route:
   allTrails: https://www.alltrails.com/trail/us/west-virginia/spruce-knob-via-huckleberry-trail
   forestService: https://www.fs.usda.gov/recarea/mnf/recreation/recarea/?recid=7038
 ---
+Spruce Knob has a paved road that goes all the way to the top.  However, I chose the Huckleberry Trail route, which is a steady climb up a ridge line to Spruce Knob.  I hiked this trail late on a clear spring day.  The views from the top show why West Virginia is called "The Mountain State".  The green mountains stretched as far as the eye could see in all directions.  This was the third and final high point I completed on that day.
