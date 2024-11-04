@@ -2,26 +2,44 @@
 category: highpoint
 date: "2014-03-29T20:06:41-06:00"
 draft: true
-elevation: 5705
+elevation: 4972
 images:
-- name: highpoints/black-mesa/IMG_20140329_161620.jpeg
+#- name: highpoints/black-mesa/IMG_20140329_161620.jpeg
+#  caption: A
 - name: highpoints/black-mesa/IMG_20140329_161622.jpeg
+  caption: B
 - name: highpoints/black-mesa/IMG_20140329_165237.jpeg
-- name: highpoints/black-mesa/IMG_20140329_165240.jpeg
+  caption: C
+#- name: highpoints/black-mesa/IMG_20140329_165240.jpeg
+#  caption: D
 - name: highpoints/black-mesa/IMG_20140329_170435.jpeg
-- name: highpoints/black-mesa/IMG_20140329_170443.jpeg
+  caption: E
+#- name: highpoints/black-mesa/IMG_20140329_170443.jpeg
+#  caption: F
 - name: highpoints/black-mesa/IMG_20140329_173100.jpeg
-- name: highpoints/black-mesa/IMG_20140329_173105.jpeg
-- name: highpoints/black-mesa/IMG_20140329_173111.jpeg
-- name: highpoints/black-mesa/IMG_20140329_173118.jpeg
-- name: highpoints/black-mesa/IMG_20140329_173126.jpeg
-- name: highpoints/black-mesa/IMG_20140329_173134.jpeg
+  caption: H
+#- name: highpoints/black-mesa/IMG_20140329_173105.jpeg
+#  caption: I
+#- name: highpoints/black-mesa/IMG_20140329_173111.jpeg
+#  caption: J
+#- name: highpoints/black-mesa/IMG_20140329_173118.jpeg
+#  caption: K
+#- name: highpoints/black-mesa/IMG_20140329_173126.jpeg
+#  caption: L
+#- name: highpoints/black-mesa/IMG_20140329_173134.jpeg
+#  caption: M
 - name: highpoints/black-mesa/IMG_20140329_173141.jpeg
+  caption: "N"
 - name: highpoints/black-mesa/IMG_20140329_173255.jpeg
+  caption: O
 - name: highpoints/black-mesa/IMG_20140329_173553.jpeg
+  caption: P
 - name: highpoints/black-mesa/IMG_20140329_174307.jpeg
-- name: highpoints/black-mesa/IMG_20140329_182245.jpeg
+  caption: Q
+#- name: highpoints/black-mesa/IMG_20140329_182245.jpeg
+#  caption: S
 - name: highpoints/black-mesa/IMG_20140329_182247.jpeg
+  caption: T
 state: Oklahoma
 title: Black Mesa
 route:

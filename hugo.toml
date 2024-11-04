@@ -2,6 +2,7 @@ baseURL = 'https://zachmaillard.xyz/'
 languageCode = 'en-us'
 title = 'zachmaillard.xyz'
 theme = 'hugo-theme-console'
+summaryLength = 15
 
 [[params.navlinks]]
 name = "about/"

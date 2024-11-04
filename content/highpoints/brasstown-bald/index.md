@@ -5,16 +5,27 @@ draft: true
 elevation: 4784
 images:
 - name: highpoints/brasstown-bald/IMG_0286.jpeg
-- name: highpoints/brasstown-bald/IMG_0287.jpeg
-- name: highpoints/brasstown-bald/IMG_0288.jpeg
-- name: highpoints/brasstown-bald/IMG_0289.jpeg
-- name: highpoints/brasstown-bald/IMG_0290.jpeg
+  caption: A
+#- name: highpoints/brasstown-bald/IMG_0287.jpeg
+#  caption: B
+#- name: highpoints/brasstown-bald/IMG_0288.jpeg
+#  caption: C
+#- name: highpoints/brasstown-bald/IMG_0289.jpeg
+#  caption: D
+#- name: highpoints/brasstown-bald/IMG_0290.jpeg
+#  caption: E
 - name: highpoints/brasstown-bald/IMG_0291.jpeg
+  caption: F
 - name: highpoints/brasstown-bald/IMG_0293.jpeg
+  caption: G
 - name: highpoints/brasstown-bald/IMG_0294.jpeg
+  caption: H
 - name: highpoints/brasstown-bald/IMG_0295.jpeg
+  caption: I
 - name: highpoints/brasstown-bald/IMG_0296.jpeg
+  caption: L
 - name: highpoints/brasstown-bald/IMG_0298.jpeg
+  caption: M
 state: Georgia
 title: Brasstown Bald
 route:

@@ -40,6 +40,7 @@ images:
   caption: The Home Stretch
 state: South Dakota
 title: Black Elk Peak
+summary: Black Elk Peak Summary
 route:
   name: "Harney Peak Trail #9"
   distance: 6.4
@@ -51,3 +52,4 @@ route:
     link: https://gfp.sd.gov/parks/detail/custer-state-park/
   
 ---
+Black Elk Peak (formerly known as Harney Peak) 

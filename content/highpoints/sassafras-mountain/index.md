@@ -6,16 +6,27 @@ draft: true
 elevation: 3554
 images:
 - name: highpoints/sassafras-mountain/IMG_0321.jpeg
-- name: highpoints/sassafras-mountain/IMG_0322.jpeg
-- name: highpoints/sassafras-mountain/IMG_0323.jpeg
-- name: highpoints/sassafras-mountain/IMG_0324.jpeg
+  caption: A
+#- name: highpoints/sassafras-mountain/IMG_0322.jpeg
+#  caption: I
+#- name: highpoints/sassafras-mountain/IMG_0323.jpeg
+#  caption: J
+#- name: highpoints/sassafras-mountain/IMG_0324.jpeg
+#  caption: K
 - name: highpoints/sassafras-mountain/IMG_0325.jpeg
-- name: highpoints/sassafras-mountain/IMG_0326.jpeg
+  caption: L
+#- name: highpoints/sassafras-mountain/IMG_0326.jpeg
+#  caption: M
 - name: highpoints/sassafras-mountain/IMG_0327.jpeg
+  caption: "N"
 - name: highpoints/sassafras-mountain/IMG_0328.jpeg
-- name: highpoints/sassafras-mountain/IMG_0329.jpeg
-- name: highpoints/sassafras-mountain/IMG_0330.jpeg
-- name: highpoints/sassafras-mountain/IMG_0331.jpeg
+  caption: O
+#- name: highpoints/sassafras-mountain/IMG_0329.jpeg
+#  caption: P
+#- name: highpoints/sassafras-mountain/IMG_0330.jpeg
+#  caption: Q
+#- name: highpoints/sassafras-mountain/IMG_0331.jpeg
+#  caption: R
 state: South Carolina
 title: Sassafras Mountain
 route:

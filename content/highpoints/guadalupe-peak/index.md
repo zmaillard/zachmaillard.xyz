@@ -4,13 +4,21 @@ climbed: April 15, 2013
 date: "2013-04-15T20:05:45-06:00"
 draft: true
 elevation: 8751
+title: Guadalupe Peak
+state: Texas
 images:
 - name: highpoints/guadalupe-peak/IMAG0940.jpeg
+  caption: A
 - name: highpoints/guadalupe-peak/IMAG0941.jpeg
+  caption: B
 - name: highpoints/guadalupe-peak/IMAG0942.jpeg
+  caption: C
 - name: highpoints/guadalupe-peak/IMAG0943.jpeg
+  caption: D
 - name: highpoints/guadalupe-peak/IMAG0945.jpeg
+  caption: E
 - name: highpoints/guadalupe-peak/IMAG0946.jpeg
+  caption: F
 route:
   name: Guadalupe Peak Trail
   distance: 8.1

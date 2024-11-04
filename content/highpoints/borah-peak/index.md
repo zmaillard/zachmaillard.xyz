@@ -5,28 +5,50 @@ date: "2018-07-22T20:06:49-06:00"
 draft: true
 elevation: 12662
 images:
-- name: highpoints/borah-peak/IMG_0821.jpeg
+#- name: highpoints/borah-peak/IMG_0821.jpeg
+#  caption: A
 - name: highpoints/borah-peak/IMG_0822.jpeg
-- name: highpoints/borah-peak/IMG_0826.jpeg
+  caption: B
+#- name: highpoints/borah-peak/IMG_0826.jpeg
+#  caption: C
 - name: highpoints/borah-peak/IMG_0827.jpeg
+  caption: D
 - name: highpoints/borah-peak/IMG_0828.jpeg
+  caption: E
 - name: highpoints/borah-peak/IMG_0829.jpeg
-- name: highpoints/borah-peak/IMG_0830.jpeg
-- name: highpoints/borah-peak/IMG_0831.jpeg
+  caption: F
+#- name: highpoints/borah-peak/IMG_0830.jpeg
+#  caption: G
+#- name: highpoints/borah-peak/IMG_0831.jpeg
+#  caption: H
 - name: highpoints/borah-peak/IMG_0832.jpeg
+  caption: I
 - name: highpoints/borah-peak/IMG_0834.jpeg
-- name: highpoints/borah-peak/IMG_0835.jpeg
+  caption: J
+#- name: highpoints/borah-peak/IMG_0835.jpeg
+#  caption: K
 - name: highpoints/borah-peak/IMG_0836.jpeg
-- name: highpoints/borah-peak/IMG_0837.jpeg
+  caption: L
+#- name: highpoints/borah-peak/IMG_0837.jpeg
+#  caption: M
 - name: highpoints/borah-peak/IMG_0838.jpeg
+  caption: "N"
 - name: highpoints/borah-peak/IMG_0839.jpeg
+  caption: O
 - name: highpoints/borah-peak/IMG_0840.jpeg
+  caption: P
 - name: highpoints/borah-peak/IMG_0842.jpeg
+  caption: Q
 - name: highpoints/borah-peak/IMG_0843.jpeg
-- name: highpoints/borah-peak/IMG_0844.jpeg
-- name: highpoints/borah-peak/IMG_0845.jpeg
-- name: highpoints/borah-peak/IMG_0846.jpeg
-- name: highpoints/borah-peak/IMG_0847.jpeg
+  caption: R
+#- name: highpoints/borah-peak/IMG_0844.jpeg
+#  caption: S
+#- name: highpoints/borah-peak/IMG_0845.jpeg
+#  caption: T
+#- name: highpoints/borah-peak/IMG_0846.jpeg
+#  caption: U
+#- name: highpoints/borah-peak/IMG_0847.jpeg
+#  caption: V
 state: Idaho
 title: Borah Peak
 route:
