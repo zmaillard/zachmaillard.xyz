@@ -1,4 +1,17 @@
 baseURL = 'https://zachmaillard.xyz/'
 languageCode = 'en-us'
-title = 'My Home On The Web'
-theme = 'archie'
+title = 'zachmaillard.xyz'
+theme = 'hugo-theme-console'
+summaryLength = 15
+
+[[params.navlinks]]
+name = "about/"
+url = "about/"
+
+[[params.navlinks]]
+name = "posts/"
+url = "posts/"
+
+[[params.navlinks]]
+name = "highpoints/"
+url = "highpoints/"

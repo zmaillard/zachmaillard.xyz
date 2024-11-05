@@ -1,0 +1,67 @@
+{{ define "main" }}
+
+{{ $style := resources.Get "styles/main.css"  }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
+
+<h1>{{ .Title }}, {{ .Params.State }}</h1>
+<h2>
+    Elevation {{ .Params.Elevation }} Feet ({{ math.Round (math.Mul
+    .Params.Elevation 0.3048 )}} Meters)
+</h2>
+
+<div>Hike Date: {{ .PublishDate.Format "Jan. 2, 2006" }} </div>
+
+{{ $links := slice }}
+
+{{ with .Params.route }}
+    {{ with .name }}
+        <div>Route: {{.}}</div>
+    {{ end}}
+    {{ with .distance }}
+        <div>Distance: {{.}} miles out and back</div>
+    {{ end}}
+    {{ with .elevationGain }}
+        <div>Elevation Gain: {{.}} feet ({{ math.Round (math.Mul
+    . 0.3048 )}} Meters)
+</div>
+    {{ end}}
+
+{{ with .forestService }}
+    {{ $links = append (dict "name" "Forest Service" "link" .)  $links}}
+{{ end }}
+
+{{ with .otherAgency }}
+    {{ $links = append (dict "name" .name  "link" .link)  $links}}
+{{ end }}
+
+{{ with .allTrails }}
+    {{ $links = append (dict "name" "All Trails" "link" .)  $links}}
+{{ end }}
+{{ end }}
+
+{{ with $links}}
+<div>Links:
+{{range $i, $val := $links}}
+  {{ if gt $i 0 }} | {{ end }}
+  <a href="{{$val.link}}">{{$val.name}}</a>
+{{ end }}
+</div>
+{{ end }}
+<h3>Notes</h3>
+{{ .Content }}
+<div class="image-grid">
+{{ range .Params.images }}
+    <figure class="gallery">
+    <a class="gallery" href="https://images.zachmaillard.xyz/{{.name}}">
+    <img src="https://images.zachmaillard.xyz/cdn-cgi/image/width=400,quality=100/{{ .name }}" class="img-responsive gallery-image">
+    </a>
+    {{ with .caption }}
+    <figcaption>
+       <h4>{{ . }}</h4> 
+    </figcaption>
+    {{ end }}
+    </figure>
+{{ end }}
+</div>
+<br /><br />
+{{ end }}
