@@ -9,20 +9,12 @@ images:
   caption: High Point Marker 
 - name: highpoints/panorama-point/IMG_1164.jpeg
   caption: Summit Register / Metal Desk
-#- name: highpoints/panorama-point/IMG_1165.jpeg
-#  caption: C
 - name: highpoints/panorama-point/IMG_1166.jpeg
   caption: High Plains and Windmills
-#- name: highpoints/panorama-point/IMG_1167.jpeg
-#  caption: E
 - name: highpoints/panorama-point/IMG_1168.jpeg
   caption: High Plains
 - name: highpoints/panorama-point/IMG_1169.jpeg
   caption: Marker and Register
-#- name: highpoints/panorama-point/IMG_1170.jpeg
-#  caption: H
-#- name: highpoints/panorama-point/IMG_1171.jpeg
-#  caption: I
 - name: highpoints/panorama-point/IMG_1172.jpeg
   caption: Rules of the Ranch
 state: Nebraska
