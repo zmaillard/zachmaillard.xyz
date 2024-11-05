@@ -2,7 +2,6 @@
 category: highpoint
 climbed: April 15, 2013
 date: "2013-04-15T20:05:45-06:00"
-draft: true
 elevation: 8751
 title: Guadalupe Peak
 state: Texas

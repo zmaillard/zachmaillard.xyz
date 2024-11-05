@@ -24,7 +24,6 @@ images:
   caption: The Home Stretch
 state: South Dakota
 title: Black Elk Peak
-summary: Black Elk Peak Summary
 route:
   name: "Harney Peak Trail #9"
   distance: 6.4

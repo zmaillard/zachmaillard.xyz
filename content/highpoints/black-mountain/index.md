@@ -1,7 +1,6 @@
 ---
 category: highpoint
 date: "2024-03-31T20:09:10-06:00"
-draft: true
 elevation: 4145
 images:
 - name: highpoints/black-mountain/IMG_2086.jpeg
@@ -14,14 +13,10 @@ images:
   caption: High Point Area
 - name: highpoints/black-mountain/IMG_2090.jpeg
   caption: Radio Infrastructure
-#- name: highpoints/black-mountain/IMG_2091.jpeg
-#  caption: F
 - name: highpoints/black-mountain/IMG_2092.jpeg
   caption: FAA Radar Installation
 - name: highpoints/black-mountain/IMG_2093.jpeg
   caption: Black Mountain Trail
-#- name: highpoints/black-mountain/IMG_2094.jpeg
-#  caption: I
 - name: highpoints/black-mountain/IMG_2098.jpeg
   caption: Views Into Virginia
 - name: highpoints/black-mountain/IMG_2100.jpeg

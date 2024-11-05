@@ -1,7 +1,6 @@
 ---
 category: highpoint
 date: "2024-03-29T20:08:49-06:00"
-draft: true
 elevation: 3213
 images:
 - name: highpoints/mount-davis/IMG_2044.jpeg
@@ -14,8 +13,6 @@ images:
   caption: Viewing Platform
 - name: highpoints/mount-davis/IMG_2048.jpeg
   caption: High Point Information Display
-#- name: highpoints/mount-davis/IMG_2051.jpeg
-#  caption: Green Plants
 state: Pennsylvania
 title: Mount Davis
 route:

@@ -2,23 +2,14 @@
 category: highpoint
 climbed: September 8, 2023
 date: "2023-09-08T20:08:44-06:00"
-draft: true
 elevation: 12633
 images:
 - name: highpoints/humphreys-peak/IMG_1803.jpeg
   caption: Mount Humphreys From Saddle
-#- name: highpoints/humphreys-peak/IMG_1804.jpeg
-#  caption: B
-#- name: highpoints/humphreys-peak/IMG_1805.jpeg
-#  caption: View From Saddle Towards Arizona Snowbowl
 - name: highpoints/humphreys-peak/IMG_1806.jpeg
   caption: View From Saddle Towards Arizona Snowbowl
 - name: highpoints/humphreys-peak/IMG_1807.jpeg
   caption: Solitary Tree
-#- name: highpoints/humphreys-peak/IMG_1808.jpeg
-#  caption: F
-#- name: highpoints/humphreys-peak/IMG_1809.jpeg
-#  caption: G
 - name: highpoints/humphreys-peak/IMG_1810.jpeg
   caption: Final Push To The Summit
 - name: highpoints/humphreys-peak/IMG_1811.jpeg
@@ -29,10 +20,6 @@ images:
   caption: Summit Register
 - name: highpoints/humphreys-peak/IMG_1814.jpeg
   caption: View From The Top Towards The Grand Canyon
-#- name: highpoints/humphreys-peak/IMG_1815.jpeg
-#  caption: M
-#- name: highpoints/humphreys-peak/IMG_1816.jpeg
-#  caption: "N"
 state: Arizona
 title: Humphreys Peak
 route:

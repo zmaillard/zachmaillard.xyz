@@ -2,7 +2,6 @@
 category: highpoint
 climbed: March 29, 2024
 date: "2024-03-29T20:09:01-06:00"
-draft: true
 elevation: 4863
 images:
 - name: highpoints/spruce-knob/IMG_2068.jpeg

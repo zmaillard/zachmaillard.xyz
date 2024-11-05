@@ -2,7 +2,6 @@
 category: highpoint
 climbed: July 11, 2022
 date: "2022-07-11T20:08:27-06:00"
-draft: true
 elevation: 5424
 images:
 - name: highpoints/panorama-point/IMG_1163.jpeg

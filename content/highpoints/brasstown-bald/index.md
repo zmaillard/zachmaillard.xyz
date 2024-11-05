@@ -1,7 +1,6 @@
 ---
 category: highpoint
 date: "2019-06-22T20:07:07-06:00"
-draft: true
 elevation: 4784
 images:
 - name: highpoints/brasstown-bald/IMG_0286.jpeg

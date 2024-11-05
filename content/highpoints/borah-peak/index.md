@@ -5,50 +5,28 @@ date: "2018-07-22T20:06:49-06:00"
 draft: true
 elevation: 12662
 images:
-#- name: highpoints/borah-peak/IMG_0821.jpeg
-#  caption: A
 - name: highpoints/borah-peak/IMG_0822.jpeg
-  caption: B
-#- name: highpoints/borah-peak/IMG_0826.jpeg
-#  caption: C
+  caption: Borah Peak from Mackay Reservoir
 - name: highpoints/borah-peak/IMG_0827.jpeg
-  caption: D
+  caption: Trail Leading Up to Chicken Out Ridge
 - name: highpoints/borah-peak/IMG_0828.jpeg
-  caption: E
+  caption: Trail Leading Up to Chicken Out Ridge
 - name: highpoints/borah-peak/IMG_0829.jpeg
-  caption: F
-#- name: highpoints/borah-peak/IMG_0830.jpeg
-#  caption: G
-#- name: highpoints/borah-peak/IMG_0831.jpeg
-#  caption: H
+  caption: Chicken Out Ridge and Summit
 - name: highpoints/borah-peak/IMG_0832.jpeg
-  caption: I
+  caption: Deer Sighting
 - name: highpoints/borah-peak/IMG_0834.jpeg
-  caption: J
-#- name: highpoints/borah-peak/IMG_0835.jpeg
-#  caption: K
+  caption: Borah Peak Casting Shadows
 - name: highpoints/borah-peak/IMG_0836.jpeg
-  caption: L
-#- name: highpoints/borah-peak/IMG_0837.jpeg
-#  caption: M
+  caption: Summit Looking Down at Chicken Out Ridge
 - name: highpoints/borah-peak/IMG_0838.jpeg
-  caption: "N"
+  caption: Summit Marker
 - name: highpoints/borah-peak/IMG_0839.jpeg
-  caption: O
+  caption: Lost River Range
 - name: highpoints/borah-peak/IMG_0840.jpeg
-  caption: P
+  caption: Summit Selfie
 - name: highpoints/borah-peak/IMG_0842.jpeg
-  caption: Q
-- name: highpoints/borah-peak/IMG_0843.jpeg
-  caption: R
-#- name: highpoints/borah-peak/IMG_0844.jpeg
-#  caption: S
-#- name: highpoints/borah-peak/IMG_0845.jpeg
-#  caption: T
-#- name: highpoints/borah-peak/IMG_0846.jpeg
-#  caption: U
-#- name: highpoints/borah-peak/IMG_0847.jpeg
-#  caption: V
+  caption: Views From Top of Idaho
 state: Idaho
 title: Borah Peak
 route:

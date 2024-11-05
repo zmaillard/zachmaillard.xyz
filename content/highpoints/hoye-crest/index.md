@@ -2,23 +2,16 @@
 category: highpoint
 climbed: March 29, 2024
 date: "2024-03-29T20:08:54-06:00"
-draft: true
 elevation: 3360
 images:
 - name: highpoints/hoye-crest/IMG_2052.jpeg
   caption: Sign for Trail Head
 - name: highpoints/hoye-crest/IMG_2053.jpeg
   caption: Looking Up Toward Backbone Mountain
-#- name: highpoints/hoye-crest/IMG_2054.jpeg
-#  caption: C
 - name: highpoints/hoye-crest/IMG_2055.jpeg
   caption: Hoye Crest Marker
 - name: highpoints/hoye-crest/IMG_2056.jpeg
   caption: Summit Register
-#- name: highpoints/hoye-crest/IMG_2057.jpeg
-#  caption: F
-#- name: highpoints/hoye-crest/IMG_2058.jpeg
-#  caption: G
 - name: highpoints/hoye-crest/IMG_2059.jpeg
   caption: View Into Maryland
 - name: highpoints/hoye-crest/IMG_2060.jpeg
