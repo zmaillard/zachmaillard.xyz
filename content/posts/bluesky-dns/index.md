@@ -1,6 +1,5 @@
 ---
 date: "2024-11-05T17:37:34-07:00"
-draft: true
 title: Configure Bluesky Handle Using Cloudflare DNS
 category: technology
 tags:
@@ -15,19 +14,16 @@ Below is a short guide on how to configure the DNS records using [Cloudflare](ht
 
 1. Obtain a domain name.  For the purposes of this document, it is assumed you purchased your domain name through Cloudflare.
 2. In Bluesky, go to the [Settings](https://bsky.app/settings) page and choose `Change Handle` option.  (Will have an "@" icon.)
-3. Click the "I have my own domain" link in the dialog.  {{< figure src="images/bsky_choose_have_domain.png" title="Handle Dialog" >}}
-4. Enter your domain name as the handle.  Choose the "DNS Panel" option.  Note the `Value:` field.  You will need this for step 5.  Leave the window open.  {{< figure src="images/bsky_domain_dns.png" title="Add Handle Details" >}}
-
+3. Click the "I have my own domain" link in the dialog.  {{< diagram src="images/bsky_choose_have_domain.png" width="500" >}}
+4. Enter your domain name as the handle.  Choose the "DNS Panel" option.  Note the `Value:` field.  You will need this for step 7.  Leave the window open.  {{< diagram width="600" src="images/bsky_domain_dns.png"  >}}
 5. Open up the Cloudflare DNS Dashboard for your domain name.
-6. Click `Add Record` {{< figure src="images/cloudflare_add_record.png" title="Add Record" >}}
-
-
+6. Click `Add Record` {{< diagram src="images/cloudflare_add_record.png" width="600" >}}
 7. Enter the following values:
    a. Type: TXT
    b. Name: _atproto
    c. TTL: auto
    d. Content: Value from step 4.  Should start with something like `did=did:....`
-{{< figure src="images/cloudflare_txt.png" title="Cloudflare TXT Record" >}}
+{{< diagram src="images/cloudflare_txt.png" width="600" >}}
 8. Click Save
 9. Go back to the Bluesky Settings and click "Verify DNS Record".  You may need to wait a few minutes between step 8 and 9.  
 10. Success - you are new verified!  As long as you maintain ownership of that DNS name, you will always have a verified Bluesky account.
