@@ -3,6 +3,8 @@ category: highpoint
 climbed: June 23, 2019
 date: "2019-06-23T20:08:01-06:00"
 elevation: 3554
+tags: 
+- hiking
 images:
 - name: highpoints/sassafras-mountain/IMG_0321.jpeg
   caption: Views From The Summit

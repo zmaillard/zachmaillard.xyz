@@ -1,7 +1,8 @@
 ---
 category: highpoint
+tags: 
+- hiking
 date: "2014-03-29T20:06:41-06:00"
-draft: true
 elevation: 4972
 images:
 - name: highpoints/black-mesa/IMG_20140329_161622.jpeg

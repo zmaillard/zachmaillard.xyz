@@ -2,8 +2,9 @@
 category: highpoint
 climbed: July 22, 2018
 date: "2018-07-22T20:06:49-06:00"
-draft: true
 elevation: 12662
+tags: 
+- hiking
 images:
 - name: highpoints/borah-peak/IMG_0822.jpeg
   caption: Borah Peak from Mackay Reservoir

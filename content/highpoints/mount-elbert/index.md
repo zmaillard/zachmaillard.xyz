@@ -3,6 +3,8 @@ category: highpoint
 climbed: July 10, 2022
 date: "2022-07-10T20:08:19-06:00"
 elevation: 14440
+tags: 
+- hiking
 images:
 - name: highpoints/mount-elbert/IMG_1125.jpeg
   caption: First Glimpse Of Mount Elbert

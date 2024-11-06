@@ -1,0 +1,24 @@
+<!-- image -->
+{{ $imgSrc := .Get "src" }}
+{{ $widthVal := .Get "width" }}
+
+{{ $image := $.Page.Resources.Get $imgSrc }}
+
+{{ $resizeStatement := printf "%sx" $widthVal }}
+{{ $resized := $image.Resize $resizeStatement }}
+<figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
+      <img class="diagram" src="{{$resized.RelPermalink}}" height="{{$resized.Height}}" width="{{$resized.Width}}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}"{{ end }} />
+      {{ if .Get "link" }}</a>{{ end }}
+      {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr") }}
+        <figcaption>{{ if isset .Params "title" }}
+          <h4>{{ .Get "title" }}</h4>{{ end }}
+          {{ if or (.Get "caption") (.Get "attr") }}<p>
+          {{ .Get "caption" }}
+          {{ with .Get "attrlink" }}<a href="{{ . }}"> {{ end }}
+            {{ .Get "attr" }}
+          {{ if .Get "attrlink" }}</a> {{ end }}
+          </p> {{ end }}
+        </figcaption>
+    {{ end }}
+  </figure>
+  <!-- image -->

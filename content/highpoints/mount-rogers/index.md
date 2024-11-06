@@ -3,6 +3,8 @@ category: highpoint
 climbed: March 30, 2024
 date: "2024-03-30T20:09:05-06:00"
 elevation: 5729
+tags: 
+- hiking
 images:
 - name: highpoints/mount-rogers/IMG_2078.jpeg
   caption: Clear Spring Day

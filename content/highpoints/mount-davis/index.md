@@ -2,6 +2,8 @@
 category: highpoint
 date: "2024-03-29T20:08:49-06:00"
 elevation: 3213
+tags: 
+- hiking
 images:
 - name: highpoints/mount-davis/IMG_2044.jpeg
   caption: View from the Lookout Tower 
