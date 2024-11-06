@@ -3,6 +3,8 @@ category: highpoint
 climbed: July 11, 2022
 date: "2022-07-11T20:08:27-06:00"
 elevation: 5424
+tags: 
+- backroad
 images:
 - name: highpoints/panorama-point/IMG_1163.jpeg
   caption: High Point Marker 

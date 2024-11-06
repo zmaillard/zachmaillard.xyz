@@ -2,6 +2,8 @@
 category: highpoint
 date: "2019-06-22T20:07:07-06:00"
 elevation: 4784
+tags: 
+- hiking
 images:
 - name: highpoints/brasstown-bald/IMG_0286.jpeg
   caption: Foggy View From Brasstown Bald Summit

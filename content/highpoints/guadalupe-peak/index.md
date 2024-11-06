@@ -5,6 +5,8 @@ date: "2013-04-15T20:05:45-06:00"
 elevation: 8751
 title: Guadalupe Peak
 state: Texas
+tags: 
+- hiking
 images:
 - name: highpoints/guadalupe-peak/IMAG0940.jpeg
   caption: Guadalupe Peak From The East

@@ -3,6 +3,8 @@ category: highpoint
 climbed: September 8, 2023
 date: "2023-09-08T20:08:44-06:00"
 elevation: 12633
+tags: 
+- hiking
 images:
 - name: highpoints/humphreys-peak/IMG_1803.jpeg
   caption: Mount Humphreys From Saddle

@@ -1,7 +1,8 @@
 ---
 category: highpoint
+tags: 
+- hiking
 date: "2022-04-30T20:08:08-06:00"
-draft: true
 elevation: 7244
 images:
 - name: highpoints/black-elk-peak/IMG_0929.jpeg

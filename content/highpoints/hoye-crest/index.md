@@ -3,6 +3,8 @@ category: highpoint
 climbed: March 29, 2024
 date: "2024-03-29T20:08:54-06:00"
 elevation: 3360
+tags: 
+- hiking
 images:
 - name: highpoints/hoye-crest/IMG_2052.jpeg
   caption: Sign for Trail Head

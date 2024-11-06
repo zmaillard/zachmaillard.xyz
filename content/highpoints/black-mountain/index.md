@@ -1,5 +1,7 @@
 ---
 category: highpoint
+tags: 
+- hiking
 date: "2024-03-31T20:09:10-06:00"
 elevation: 4145
 images:
