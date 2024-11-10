@@ -1,3 +1,6 @@
 {:tasks
-    { serve (shell "hugo serve --buildDrafts")}
-}
+    { serve (shell "hugo serve --buildDrafts")
+      hiking-post (let[[path] *command-line-args*]
+                   (shell (str "hugo new content --kind hiking posts/" path)))}}
+    
+

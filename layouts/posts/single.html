@@ -1,0 +1,23 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{if (in .Params.category "hiking") -}}
+{{ .Render "routesummary" }}
+{{ end -}}
+
+{{ .PublishDate.Format "Jan. 2, 2006" }}
+{{ with .Params.linkedin }}
+    // <a href="{{ . }}">Linkedin</a>
+{{ end }}
+{{ with .Params.twitter }}
+    // <a href="{{ . }}">Twitter</a>
+{{ end }}
+<br/><br/>
+{{ .Content }}
+
+
+{{if (in .Params.category "hiking") -}}
+{{ .Render "gallery" }}
+{{ end -}}
+
+{{ end }}

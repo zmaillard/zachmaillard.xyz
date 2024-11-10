@@ -1,0 +1,14 @@
+<div class="image-grid">
+{{ range .Params.images }}
+    <figure class="gallery">
+    <a class="gallery" href="https://images.zachmaillard.xyz/{{.name}}">
+    <img src="https://images.zachmaillard.xyz/cdn-cgi/image/width=400,quality=100/{{ .name }}" class="img-responsive gallery-image">
+    </a>
+    {{ with .caption }}
+    <figcaption>
+       <h4>{{ . }}</h4> 
+    </figcaption>
+    {{ end }}
+    </figure>
+{{ end }}
+</div>
