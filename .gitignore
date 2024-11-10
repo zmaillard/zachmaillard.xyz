@@ -1,4 +1,7 @@
 # Generated files by hugo
+.clj-kondo
+.lsp
+.frontmatter
 /public/
 /resources/_gen/
 /assets/jsconfig.json
