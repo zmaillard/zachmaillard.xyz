@@ -1,4 +1,3 @@
-{{ $links := slice }}
 {{ with .Params.route }}
     {{ with .name }}
     <div>Route: {{.}}</div>
@@ -12,18 +11,14 @@
     <div>Elevation Gain: {{.}} feet ({{ math.Round (math.Mul . 0.3048 )}} Meters)</div>
     {{ end}}
 
-    {{ with .forestService }}
-    {{ $links = append (dict "name" "Forest Service" "link" .)  $links}}
-    {{ end }}
+    {{ $links := slice }}
 
-    {{ with .otherAgency }}
-    {{ $links = append (dict "name" .name  "link" .link)  $links}}
+    {{ with .links }}
+    {{ range . }}
+    {{ $links = append (dict "name" .name  "link" .url)  $links}}
     {{ end }}
+    {{ end }}  
 
-    {{ with .allTrails }}
-    {{ $links = append (dict "name" "All Trails" "link" .)  $links}}
-    {{ end }}
-        
     {{ with $links}}
     <div>Links:
     {{range $i, $val := $links}}

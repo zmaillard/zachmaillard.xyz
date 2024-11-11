@@ -28,7 +28,10 @@ route:
   name: Humphreys Trail No. 151
   distance: 9.0
   elevationGain: 3356
-  allTrails: https://www.alltrails.com/trail/us/arizona/humphreys-peak
-  forestService: https://www.fs.usda.gov/recarea/coconino/recarea/?recid=55108
+  links:
+  - name: All Trails
+    url: https://www.alltrails.com/trail/us/arizona/humphreys-peak
+  - name: US Forest Service
+    url: https://www.fs.usda.gov/recarea/coconino/recarea/?recid=55108
 ---
 I hiked the Humphreys Peak trail in early September.  I camped at a dispersed camping area about 15 minutes west of the trail head, and was on the trail before sunrise.  The trail is pretty steep, but the trees provide a lot of shade below the saddle.  This was less important in the dark, but was nice on the way down.  At the saddle between Humphreys Peak and Mount Agassiz, you get a clear view of the summit and the route up to the summit.  There was a fair amount of wind along the ridge line.  The trail between the saddle and the summit is probably the hardest part of the trail, because you are picking your way through lots of rocks.  The view from the summit is amazing - clear views up towards the Grand Canyon, and south towards Sedona.

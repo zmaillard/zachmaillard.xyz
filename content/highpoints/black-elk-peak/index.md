@@ -29,11 +29,13 @@ route:
   name: "Harney Peak Trail #9"
   distance: 6.4
   elevationGain: 1499
-  allTrails: https://www.alltrails.com/trail/us/south-dakota/black-elk-peak-trail
-  forestService: https://www.fs.usda.gov/detail/blackhills/recreation/hiking/?cid=stelprdb5190237
-  otherAgency: 
-    name: Custer State Park
-    link: https://gfp.sd.gov/parks/detail/custer-state-park/
+  links:
+  - name: All Trails
+    url: https://www.alltrails.com/trail/us/south-dakota/black-elk-peak-trail
+  - name: US Forest Service
+    url: https://www.fs.usda.gov/detail/blackhills/recreation/hiking/?cid=stelprdb5190237
+  - name: Custer State Park
+    url: https://gfp.sd.gov/parks/detail/custer-state-park/
   
 ---
 Black Elk Peak (formerly known as Harney Peak) is in the Black Hills of South Dakota.  The trail starts at scenic Sylvan Lake, in Custer State Park.  The lower part of the trail is a gentle climb through the forest before gaining a ridge line, where the view of Black Elk Peak and other Black Hills rock formations opens up.  The general ruggedness of all of the rock formations, make this hike not feel like you are in a state that is mostly great plains.  At the very top of the peak is a series of stairs cut into the mountain, before getting to a stone lookout tower.  The views into the distance show the rugged Black Hills fading into the prairie.  I hiked this on a warm April day, and there were a lot of other fellow hikers on the trail as well.
