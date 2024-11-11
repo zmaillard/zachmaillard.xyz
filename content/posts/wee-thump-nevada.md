@@ -14,6 +14,11 @@ route:
     url: https://www.birdandhike.com/Hike/Wilderness/WeeThump/HeartLoop/_HeartLoop.htm
   - name: Bureau of Land Management
     url: https://www.blm.gov/sites/blm.gov/files/uploads/Programs_NationalConservationLands_WildernessAreas_NV_Wee%20Thump%20Joshua%20Tree%20Wilderness%20Fact%20Sheet%20Web%20Opt.pdf 
+images:
+- name: posts/wee-thump-nevada/IMG_0641.jpg
+  caption: Joshua Trees
+- name: posts/wee-thump-nevada/IMG_0646.jpg
+  caption: Joshua Trees
 ---
 Small wilderness area encompassing a Joshua Tree forest outside of Searchlight, Nevada.
 <!--more-->
@@ -34,5 +39,3 @@ There are no maintained trails that I could make out, other than some old roads 
 
 The ground is mostly flat, and is crossed by some washes and old roads.  This is a good hike to bring kids as it is not difficult and as long as you don't head out there in the blazing Mojave Desert heat.  I took my family out here on Thanksgiving break.  The day was cold and blustery which made for very blue sky with some fast moving clouds above.
 
-{{< diagram-remote src="posts/wee-thump-nevada/IMG_0641.jpg" >}}
-{{< diagram-remote src="posts/wee-thump-nevada/IMG_0646.jpg" title="Joshua Trees" >}}

@@ -23,10 +23,10 @@ Gravel road connecting NV-225 near Mountain City, Nevada and NV-226 north of Chi
 
 ## Directions
 From NV-225, head south from Mountain City about 5 miles.  Turn right (south-west) at the sign for Trail Creek Road to Maggie Summit
-{{< diagram-remote src="posts/maggie-summit-nevada/DSC01286.jpg" title="NV-226 South at Maggie Creek Road" >}}
+{{< diagram-remote src="posts/maggie-summit-nevada/DSC01286.jpg" >}}
 
 From Tuscarora, take NV-226 north until its end.  At the end of the highway, turn right towards `Maggie Summit`.
-{{< diagram-remote src="posts/maggie-summit-nevada/IMG_0508.jpg" title="Maggie Summit" >}}
+{{< diagram-remote src="posts/maggie-summit-nevada/IMG_0508.jpg" >}}
 
 ## Map
 {{< map-embed src="https://www.google.com/maps/d/embed?mid=1mR93wIvdbT6RLLzdwZT4tB-rxgwz5A_u&hl=en">}}

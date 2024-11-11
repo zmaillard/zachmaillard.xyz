@@ -6,6 +6,15 @@ tags:
 - nevada
 - backroad
 - fall
+images:
+- name: posts/midas-road-nevada/IMG_0519.jpg
+  caption: Below Willow Creek Reservoir
+- name: posts/midas-road-nevada/Willow-Creek-Reservoir.jpg
+  caption: Willow Creek Reservoir
+- name: posts/midas-road-nevada/Midas-Road-West.jpg
+  caption: Midas Road Scene
+- name: posts/midas-road-nevada/Midas-Road-West-Cloud.jpg
+  caption: Midas Road Scene
 ---
 
 Well maintained road connecting Golconda, Nevada with NV-226 near Tuscarora.  The Midas Road passes by several mines, the community of Midas, and Willow Creek reservoir. 
@@ -30,9 +39,5 @@ The road to Midas is a good gravel road that is suitable for passenger car traff
 {{< diagram-remote src="posts/midas-road-nevada/Sunset.jpg"  title="Sunset" >}}
 
 The road then leaves the plain and follows Willow Creek into a canyon before cresting a hill at Willow Creek Reservoir.  When I drove by the reservoir in the late afternoon on a Friday in fall, there were a few RVs camped along the shoreline.  
-{{< diagram-remote src="posts/midas-road-nevada/IMG_0519.jpg" title="Below Willow Creek Reservoir" >}}
-{{< diagram-remote src="posts/midas-road-nevada/Willow-Creek-Reservoir.jpg" title="Willow Creek Reservoir" >}}
 
 The road past the reservoir follows Willow Creek or its tributaries before crossing a low pass through the Independence Range.  Signs of civilization start to reappear as the road passes by ranches and the turn off to the ghost town of Tuscarora.  The Midas Road ends at NV-226 just east of Tuscarora.
-{{< diagram-remote src="posts/midas-road-nevada/Midas-Road-West.jpg" title="Midas Road Scene" >}}
-{{< diagram-remote src="posts/midas-road-nevada/Midas-Road-West-Cloud.jpg" title="Midas Road Scene" >}}
