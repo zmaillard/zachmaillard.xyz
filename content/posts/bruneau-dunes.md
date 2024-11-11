@@ -27,9 +27,9 @@ route:
   distance: 5.3
   type: Loop
   elevationGain: 266
-  otherAgency: 
-    name: Bruneau Dunes State Park
-    link: https://parksandrecreation.idaho.gov/parks/bruneau-dunes/
+  links: 
+  - name: Bruneau Dunes State Park
+    url: https://parksandrecreation.idaho.gov/parks/bruneau-dunes/
 ---
 Bruneau Dunes State Park is about 60 miles southeast of Boise, on the south side of the Snake River.  In the midst of the desert landscape, are giant sand dunes.  Next to the dunes are small lakes, that attract a large amount of waterfowl.  In addition to hiking and climbing the dunes, you can also rent sleds and "sandboards" that you can carry up the dune and ride down.  This area of Idaho is good for star watching, and the park is home to an [observatory](https://parksandrecreation.idaho.gov/parks/bruneau-dunes/observatory/) which you can visit in evenings.  
 

@@ -1,10 +1,11 @@
 ---
 title: "Palisades Nevada"
 date: 2019-10-21T11:09:38-06:00
-featuredImage: 'posts/palisades-nevada/images/IMG_0560_featured.jpg'
-displayInList: true
-categories: ["backroads"]
-tags: ["nevada","backroad","fall"]
+category: backroads
+tags: 
+- nevada
+- backroad
+- fall
 ---
 Gravel road I-80 near Emigrant Summit that descends into the Humboldt River canyon at Palisades.  The road crosses the Humboldt River and ends at NV-278 south of Carlin.  Can be made into a detour from interstate driving.
 <!--more-->
@@ -15,7 +16,7 @@ From I-80, take Exit 271 - Palisades.  From the freeway turn south, then left at
 From NV-278, turn west at the sign to `Palisade`.  The turn is about 9 miles south of the I-80 junction in Carlin.
 
 ## Map
-<iframe src="https://www.google.com/maps/d/embed?mid=1FqptuWyhdwDyTasPzxwbQEnSD3SL_KHs" width="640" height="480"></iframe>
+{{<map-embed src="https://www.google.com/maps/d/embed?mid=1FqptuWyhdwDyTasPzxwbQEnSD3SL_KHs" >}}
 
 ## Description
 Leaving the freeway near Emigrant Summit, the road crests a ridge and then follows a canyon down hill.  

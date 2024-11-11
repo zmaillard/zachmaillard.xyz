@@ -21,7 +21,9 @@ route:
   name: Mount Davis Highpoint Trail
   distance: 2.0
   elevationGain: 124
-  allTrails: https://www.alltrails.com/trail/us/pennsylvania/mount-davis-highpoint-trail
+  links:
+  - name: All Trails
+    url: https://www.alltrails.com/trail/us/pennsylvania/mount-davis-highpoint-trail
 
 
 

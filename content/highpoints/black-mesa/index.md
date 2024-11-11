@@ -25,9 +25,10 @@ route:
   name: Black Mesa Trail
   distance: 8.8
   elevationGain: 748
-  allTrails: https://www.alltrails.com/trail/us/oklahoma/black-mesa
-  otherAgency: 
-    name: Black Mesa State Park and Nature Preserve
-    link: https://www.travelok.com/state-parks/black-mesa-state-park-nature-preserve/maps-and-resources
+  links:
+  - name: All Trails
+    url: https://www.alltrails.com/trail/us/oklahoma/black-mesa
+  - name: Black Mesa State Park and Nature Preserve
+    url: https://www.travelok.com/state-parks/black-mesa-state-park-nature-preserve/maps-and-resources
 ---
 Black Mesa is located at the far western end of Oklahoma, just a short distance from the Colorado and New Mexico borders.  Landscape wise, this is high plains, with mostly short grasses, Yucca, and some Pinon-Juniper woodlands along the side of the mesa.  There is not a lot of shade on this trail, and would be very exposed during the summer months.  I hiked this on a late March evening and the sun set while I was returning to the car.  Overall this is not a terribly challenging hike, but quite a beautiful one.

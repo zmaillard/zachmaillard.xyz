@@ -1,7 +1,6 @@
 ---
 title: "Maggie Summit Nevada"
 date: 2019-10-21T11:09:59-06:00
-displayInList: true
 category: backroads
 tags: 
 - nevada
@@ -30,7 +29,7 @@ From Tuscarora, take NV-226 north until its end.  At the end of the highway, tur
 {{< diagram-remote src="posts/maggie-summit-nevada/IMG_0508.jpg" title="Maggie Summit" >}}
 
 ## Map
-<iframe src="https://www.google.com/maps/d/embed?mid=1mR93wIvdbT6RLLzdwZT4tB-rxgwz5A_u&hl=en" width="640" height="480"></iframe>
+{{< map-embed src="https://www.google.com/maps/d/embed?mid=1mR93wIvdbT6RLLzdwZT4tB-rxgwz5A_u&hl=en">}}
 
 ## Description
 Leaving NV-225, the road is a good gravel that follows Trail Creek through some bottom land and assorted ranches.  The road ascends to Maggie Creek Summit at 6066 Feet.  From the summit, the road drops through numerous Aspen groves before crossing Columbia Creek on a causeway of sorts.  

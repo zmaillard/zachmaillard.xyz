@@ -20,11 +20,11 @@ route:
   name: Guadalupe Peak Trail
   distance: 8.1
   elevationGain: 2949
-  allTrails: https://www.alltrails.com/trail/us/texas/guadalupe-peak-texas-highpoint-trail
-  otherAgency: 
-    name: Guadalupe Mountains National Park
+  links:
+  - name: All Trails
+    url: https://www.alltrails.com/trail/us/texas/guadalupe-peak-texas-highpoint-trail
+  - name: Guadalupe Mountains National Park
     link: https://www.nps.gov/gumo/planyourvisit/trails.htm
-  
 ---
 
 
