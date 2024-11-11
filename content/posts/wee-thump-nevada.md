@@ -2,7 +2,6 @@
 title: "Wee Thump Joshua Tree Wilderness"
 date: 2020-03-01T08:45:20-07:00
 categories: ["hiking"]
-featuredImage: 'posts/wee-thump-nevada/images/IMG_0646_feature.jpg'
 tags: ["nevada","hiking","fall"]
 ---
 
@@ -11,7 +10,7 @@ Small wilderness area encompassing a Joshua Tree forest outside of Searchlight, 
 
 ## Directions
 From US-95 at Searchlight, turn west on NV-164 for 11 miles to the parking area on the north side of the highway.
-{{< diagram-remote src="posts/wee-thump-nevada/IMG_0637.jpeg" title="Wee Thump Trailhead" >}}
+{{< diagram-remote src="posts/wee-thump-nevada/IMG_0637.jpg" title="Wee Thump Trailhead" >}}
 
 From I-15, take Exit 286 (Nipton Road) in California.  Take Nipton Road east for 20.5 miles, crossing into Nevada it becomes NV-164.  The parking area is on the north side of the highway.
 
@@ -25,10 +24,10 @@ There are no maintained trails that I could make out, other than some old roads 
 
 The ground is mostly flat, and is crossed by some washes and old roads.  This is a good hike to bring kids as it is not difficult and as long as you don't head out there in the blazing Mojave Desert heat.  I took my family out here on Thanksgiving break.  The day was cold and blustery which made for very blue sky with some fast moving clouds above.
 
-{{< diagram-remote src="posts/wee-thump-nevada/images/IMG_0641.jpg" >}}
-{{< diagram-remote src="posts/wee-thump-nevada/images/IMG_0646.jpg" title="Joshua Trees" >}}
+{{< diagram-remote src="posts/wee-thump-nevada/IMG_0641.jpg" >}}
+{{< diagram-remote src="posts/wee-thump-nevada/IMG_0646.jpg" title="Joshua Trees" >}}
 
 More Information About Wee Thump Joshua Tree Wilderness
 
-- [BLM] (https://www.blm.gov/sites/blm.gov/files/uploads/Programs_NationalConservationLands_WildernessAreas_NV_Wee%20Thump%20Joshua%20Tree%20Wilderness%20Fact%20Sheet%20Web%20Opt.pdf)
-- [Heart of the Wee Thump - Bird and Hike] (https://www.birdandhike.com/Hike/Wilderness/WeeThump/HeartLoop/_HeartLoop.htm)
+- [BLM](https://www.blm.gov/sites/blm.gov/files/uploads/Programs_NationalConservationLands_WildernessAreas_NV_Wee%20Thump%20Joshua%20Tree%20Wilderness%20Fact%20Sheet%20Web%20Opt.pdf)
+- [Heart of the Wee Thump - Bird and Hike](https://www.birdandhike.com/Hike/Wilderness/WeeThump/HeartLoop/_HeartLoop.htm)
