@@ -16,14 +16,10 @@ In order for the SSH agent to recognize the keys, they need to be stored as a ty
 {{< diagram width="400" src="images/1password-new-ssh-key.png" caption="New SSH Key"  >}}
 {{< diagram width="400" src="images/1password-existing-ssh-key.png" caption="Existing SSH Key" >}}
 
-
-
-
-
 This prevents needing to have to ensure to copy private keys from workstation to workstation.  Also this is useful when accessing Git from multiple workstations.  There is no need to configure a new SSH key for each workstation.  {{< diagram width="400" src="images/1password-git-prompt.png"  >}}
 
 
-
-
 ### OP CLI
-The [1Password CLI](https://developer.1password.com/docs/cli/), `op`, allows you to access your 1Password vaults from the command line.  Depending on which operating system you are using, it may even integrate with the 1Password desktop application.  One of the features I use the CLI most for, is to integrate within my [dotfiles](https://github.com/zmaillard/dotfiles).  I can inject vault references into my dotfiles and configuration scripts.  Then went I apply the settings on my computer, I am prompted for a password on my 1Password desktop application, or if I am running within WSL, I am prompted for my password on the commandline itself.  If I am using the biometric features, I can use my fingerprint, or face to login.
+The [1Password CLI](https://developer.1password.com/docs/cli/), `op`, allows you to access your 1Password vaults from the command line.  Depending on which operating system you are using, it may even integrate with the 1Password desktop application.  One of the features I use the CLI most for, is to integrate within my [dotfiles](https://github.com/zmaillard/dotfiles).  I can inject vault references into my dotfiles and configuration scripts.  Then went I apply the settings on my computer, I am prompted for a password on my 1Password desktop application, or if I am running within WSL, I am prompted for my password on the commandline itself.  If I am using the biometric features, I can use my fingerprint, or face to login. {{< diagram width="400" src="images/1password-cli.png"  >}}
+
+
