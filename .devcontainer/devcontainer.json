@@ -9,11 +9,12 @@
     },
     "ghcr.io/devcontainers-contrib/features/aws-cli:1": {},
     "ghcr.io/devcontainers-contrib/features/direnv:1": {},
-    "ghcr.io/devcontainers-contrib/features/starship:1": {}
+    "ghcr.io/devcontainers-contrib/features/starship:1": {},
+    "ghcr.io/devcontainers-contrib/features/neovim-apt-get:1": {}
   },
   "customizations": {
     "vscode": {
-      "extensions": ["eliostruyf.vscode-front-matter"]
+      "extensions": ["asvetliakov.vscode-neovim", "redhat.vscode-yaml"]
     }
   },
 
