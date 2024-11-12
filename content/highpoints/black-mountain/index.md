@@ -28,7 +28,9 @@ title: Black Mountain
 route:
   distance: 3.4
   elevationGain: 528
-  allTrails: https://www.alltrails.com/trail/us/kentucky/black-mountain-kentucky-highpoint
+  links:
+  - name: All Trails
+    url: https://www.alltrails.com/trail/us/kentucky/black-mountain-kentucky-highpoint
 ---
 Black Mountain is near the state line between Virginia and Kentucky in coal country.  The trail consists of an access road that serves an FAA Radar facility, and some radio towers and related infrastructure at Black Mountain proper.  The high point is accessible with a high clearance vehicle.  The view from the top is mostly industrial with the radio tower and infrastructure, plus a coal mine on the Virginia side of the ridge line.  I hiked this mid-morning on an Easter Sunday - which was a great way to spend a Sunday morning.  
 

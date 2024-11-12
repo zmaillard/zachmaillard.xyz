@@ -34,8 +34,11 @@ route:
   name: North Mount Elbert Trail #1484
   elevationGain: 4458
   distance: 9.8
-  allTrails: https://www.alltrails.com/trail/us/colorado/north-mount-elbert-trail--3
-  forestService: https://www.fs.usda.gov/recarea/psicc/recreation/recarea/?recid=81978
+  links:
+  - name: All Trails
+    url: https://www.alltrails.com/trail/us/colorado/north-mount-elbert-trail--3
+  - name: US Forest Service
+    url: https://www.fs.usda.gov/recarea/psicc/recreation/recarea/?recid=81978
 ---
 Mount Elbert is the highest peak in Colorado, and is the second highest peak in the lower 48.  I wasn't really sure how to acclimate for this one, so I arrived in Leadville mid-afternoon the day before I hiked, and spent the afternoon walking around town.  Leadville is just over 10,000 feet in elevation.  The Mount Elbert hike is non-technical, but the high elevation is definitely a factor for this hike.  I was on the trail by 4:30AM, trying to avoid any afternoon thunderstorms that happen in this area.  As it was, the parking lot was very busy when I pulled up.  The hike starts out with a steady climb along the Colorado Trail, and then becomes steep, and then steeper.  There are two false summits that trick you into thinking you are almost done.  I didn't have any symptoms of altitude sickness, but you could tell that the air was thinner.  
 

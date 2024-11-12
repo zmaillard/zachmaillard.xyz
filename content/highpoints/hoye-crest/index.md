@@ -32,6 +32,8 @@ route:
   name: Backbone Mountain Trail
   distance: 2.3
   elevationGain: 688
-  allTrails: https://www.alltrails.com/trail/us/west-virginia/hoye-crest-backbone-mountain
+  links:
+  - name: All Trails
+    url: https://www.alltrails.com/trail/us/west-virginia/hoye-crest-backbone-mountain
 ---
 The Hoye Crest (part of Backbone Mountain) trailhead is accessed from West Virginia.  There is a small turnout on either side of US-219.  The trail mostly follows what appears to be an old forest road, up Backbone Mountain.  On the far side of the mountain you cross into Maryland and reach the high point itself.  The view from the top is the neighboring valley and next ridge over in Maryland.  The trail is short and steep, and on the spring day I hiked the trail none of the trees had their leaves yet.  My favorite part about the trail was the spur to the West Virginia/Maryland border marker, where I got to stand with one foot in Maryland and the other foot in West Virginia.  This was my second high point of the day. 

@@ -16,7 +16,7 @@
 {{ .Content }}
 
 
-{{if (in .Params.category "hiking") -}}
+{{if (or (in .Params.category "backroads") (in .Params.category "hiking")) -}}
 {{ .Render "gallery" }}
 {{ end -}}
 
