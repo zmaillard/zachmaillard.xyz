@@ -7,3 +7,11 @@ RUN apt-get update && apt-get install -y curl
 RUN curl -sLO https://raw.githubusercontent.com/babashka/babashka/master/install \
     && chmod +x install \
     && ./install --static
+
+# Add NeoVim
+RUN curl -sLO https://github.com/neovim/neovim/releases/download/v0.10.2/nvim-linux64.tar.gz \
+    && gunzip -c nvim-linux64.tar.gz | tar x- \
+    && mv nvim-linux64 /usr/local/ \
+    && chmod +x /usr/local/nvim-linux64/bin/nvim \
+    && ln -s /usr/local/nvim-linux64/bin/nvim /usr/bin/nvim \
+    && rm nvim-linux64.tar.gz
