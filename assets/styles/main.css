@@ -7,3 +7,8 @@ figure.gallery {
 img.diagram {
     width: revert;
 }
+
+code {
+    background-color: #f1f1f1;
+    font-family: monospace;
+}
