@@ -1,8 +1,6 @@
 {
   "name": "Ubuntu",
-  "build": {
-    "dockerfile": "Dockerfile.dev"
-  },
+  "image": "ghcr.io/zmaillard/devcontainer:v1.0",
   "features": {
     "ghcr.io/devcontainers/features/hugo:1": {
       "extended": true
