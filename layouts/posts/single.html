@@ -6,6 +6,13 @@
 {{ end -}}
 
 {{ .PublishDate.Format "Jan. 2, 2006" }}
+{{ if (and (in .Params.category "technology") .Lastmod )}}
+    {{ $lastmod := .Lastmod.Format "Jan. 2, 2006" }}
+    {{ if ne .PublishDate .Lastmod }}
+        (Updated: {{ $lastmod }})
+    {{ end }}
+{{ end }}
+
 {{ with .Params.linkedin }}
     // <a href="{{ . }}">Linkedin</a>
 {{ end }}

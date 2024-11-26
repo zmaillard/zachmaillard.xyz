@@ -4,6 +4,10 @@ title = 'zachmaillard.xyz'
 theme = 'hugo-theme-console'
 summaryLength = 15
 
+enableGitInfo = true
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
+
 [[params.navlinks]]
 name = "about/"
 url = "about/"
