@@ -1,12 +1,14 @@
 ---
 date: '2024-11-24T08:45:11-07:00'
-draft: true
 title: 'Hosting Application on Raspberry Pi Using Quadlet'
 category: technology
 tags:
 - container
 - raspberrypi
 - bot
+images:
+- name: posts/quadlet/raspberry-pi.jpg
+  caption: Raspberry Pi Server
 ---
 I have been working on a bot for the social network [Bluesky](https://bsky.app).  My initial effort was non-interactive.  I used a Cloudflare Worker with a Cron trigger to post a [random road sign picture every day](http://github.com/zmaillard/rspodt).  I wanted to learn how to make the bot respond to "@mentions" with various commands.  This would mean having to host the bot in a slightly different way.  Instead of it being a serverless application, I would want to either listen to a stream of events, or poll on a fairly regular caedance to check for updates.  I will post details about the [bot](http://github.com/zmaillard/rsp.bot) at a later date.
 
