@@ -60,6 +60,8 @@ Environment=AUTO_POST_CRON_SCHEDULE="0 0 * * *"
 WantedBy=multi-user.target default.target
 ```
 
+This above file stores the secrets in plain text.  Refer to this post on how to use [secrets instead]({{< ref "posts/quadlet-secret.md" >}}).
+
 
 ### Authenticate To GitHub Packages
 The *rsp.bot* is hosted in GitHub Packages, which requires a token to pull packages.  In order for *podman* to be able to load the images, you will first need to login to GitHub Packages.  This step is only necessary if your container registry reqires credentials.
