@@ -91,6 +91,12 @@ This command may take some time to complete, as it will need to pull down the ne
 systemctl --user status rspbot
 ```
 
+In order for the process to stay up after the user logs out, be sure to run:
+
+```
+loginctl enable-linger $USER
+```
+
 ### Updating Image
 To update the Docker image, or to make changes to environment variables, simply edit the container file and restart the service with the command:
 
