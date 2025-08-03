@@ -1,5 +1,7 @@
 {:tasks
     { serve (shell "hugo serve --buildDrafts")
+      highpoint-post (let[[path] *command-line-args*]
+                      (shell (str "hugo new content --kind highpoints highpoints/" path "/index.md")))
       hiking-post (let[[path] *command-line-args*]
                    (shell (str "hugo new content --kind hiking posts/" path)))}}
     
