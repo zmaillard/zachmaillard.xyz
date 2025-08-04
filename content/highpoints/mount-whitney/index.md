@@ -1,5 +1,5 @@
 ---
-date: '2025-08-02T17:41:47-06:00'
+date: '2025-07-21T10:41:47-06:00'
 climbed: July 21, 2025
 title: 'Mount Whitney'
 category: 'highpoint'
