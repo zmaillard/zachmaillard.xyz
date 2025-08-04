@@ -1,5 +1,5 @@
 ---
-date: '2025-08-02T17:40:58-06:00'
+date: '2025-06-29T09:10:58-06:00'
 title: 'White Butte'
 category: 'highpoint'
 state: North Dakota
